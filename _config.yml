@@ -83,8 +83,8 @@ author:
   name             : "Ali Ramezani-Kebrya"
   avatar           : "AliFormal.jpg"
   bio              : "Associate Professor in CS"
-  location         : ""
-  employer         : "Department of Informatics, University of Oslo (UiO)"
+  location         : 
+  employer         : "University of Oslo (UiO)"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=qZ8KukkAAAAJ&hl=en&oi=ao"
   email            : "ali@uio.no"
