@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ali Ramezani-Kebrya"
+title                    : ""
 title_separator          : "-"
 name                     : &name "Ali Ramezani-Kebrya"
 description              : &description "Associate Professor at the University of Oslo"
