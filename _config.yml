@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Ali Ramezani-Kebrya"
   avatar           : "AliFormal.jpg"
-  bio              : "Associate Professor in Computer Science"
-  location         : "Department of Informatics"
+  bio              : "Associate Professor in CS"
+  location         : "[Department of Informatics](https://www.mn.uio.no/ifi/english/index.html)"
   employer         : "University of Oslo (UiO)"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=qZ8KukkAAAAJ&hl=en&oi=ao"
-  email            :
+  email            : "ali@uio.no"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
