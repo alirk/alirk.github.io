@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Ali Ramezani-Kebrya"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
