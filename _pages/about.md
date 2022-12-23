@@ -13,46 +13,85 @@ I am a Tenured Associate Professor in the [Department of Informatics](https://ww
 
 I work in machine learning and study **scalability**, **robustness**, **privacy**, **generalization**, and **stability** aspects of machine learning algorithms. In particular, I am developing **highly scalable**, **privacy-preserving**, and **robust** algorithms to train very large models in a distributed manner. Our algorithms can be used in so-called *federated learning* settings, where a deep model is trained on data distributed among multiple owners who cannot necessarily share their data, e.g., due to privacy concerns, competition, or by law. I also study the design of the underlying architecture, e.g, **neural networks** over which a learning algorithm is applied, in particular, the fundamental question of *How much should we overparameterize a neural network?*
 
-[this](#Buttons){: .btn--research}
+-----
 
-
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
-
-A data-driven personal website
+Recent News
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+- 1/2023: I joined the Department of Informatics at the University of Oslo!
+- 12/2022: I gave a talk titled `Randomization Improves Deep Learning Security?` at the Annual Workshop of the VILLUM Investigator Grant at Aalborg University. 
+- 10/2022: Our paper *[MixTailor: Mixed Gradient Aggregation for Robust Learning Against Tailored Attacks](https://openreview.net/pdf?id=tqDhrbKJLS)* has been published in **Transactions on Machine Learning Research**. 
+- 8/2022: I gave a talk titled `How Did DL Dominate Today’s ML? What Challenges and Limitations Remain?` at the University of Oslo.
+- 6/2022: I gave a talk titled `Scalable ML: Communication-efficiency, Security, and Architecture Design` at the University of Edinburgh.
+- 2/2022: I gave a talk titled `Scalable ML: Communication-efficiency, Security, and Architecture Design` at the University of Liverpool.
+- 09/2021: Our paper *[Subquadratic Overparameterization for Shallow Neural Networks](https://proceedings.neurips.cc/paper/2021/hash/5d9e4a04afb9f3608ccc76c1ffa7573e-Abstract.html)* has been accepted to **NeurIPS 2021**.
 
-Getting started
+-----
+
+Selected Publications
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+<img style="float: left;" src="/images/MixTailor_Overview.png" width="350"/>   ML models are vulnerable to various attacks at training and test time including data/model poisoning and adversarial examples. We introduce MixTailor, a scheme based on randomization of the aggregation strategies that makes it impossible for the attacker to be fully informed.  **MixTailor: Mixed Gradient Aggregation for Robust Learning Against Tailored Attacks** increases computational complexity of designing tailored attacks for an informed adversary.
 
-**Markdown generator**
+ 
+Ali Ramezani-Kebrya\*, Iman Tabrizian\*, Fartash Faghri, Ilya Markov, and Petar Popovski, **MixTailor: Mixed Gradient Aggregation for Robust Learning Against Tailored Attacks**, Transactions on Machine Learning Research, Oct. 2022.  
+[pdf](https://openreview.net/pdf?id=tqDhrbKJLS){: .btn--research} [bib](https://www.jmlr.org/tmlr/papers/bib/tqDhrbKJLS.bib){: .btn--research} [code](https://github.com/Tabrizian/mix-tailor){: .btn--research} [arXiv](https://arxiv.org/abs/2207.07941){: .btn--research} [openreview](https://openreview.net/forum?id=tqDhrbKJLS){: .btn--research} 
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+<img style="float: left;" src="/images/OPnn.png" width="300"/>   Overparameterization refers to the important phenomenon where the width of a neural network is chosen such that learning algorithms can provably attain zero loss in nonconvex training. In **Subquadratic Overparameterization for Shallow Neural Networks**, we achieve the best known bounds on the number of parameters that is sufficient for gradient descent to converge to a global minimum with linear rate and probability approaching to one.
 
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+ 
+Chaehwan Song\*, Ali Ramezani-Kebrya\*, Thomas Pethick, Armin Eftekhari, and Volkan Cevher, **Subquadratic Overparameterization for Shallow Neural Networks**, NeurIPS 2021.  
+[pdf](https://proceedings.neurips.cc/paper/2021/file/5d9e4a04afb9f3608ccc76c1ffa7573e-Paper.pdf){: .btn--research} [bib](https://scholar.googleusercontent.com/scholar.bib?q=info:kx3LBH3jDHQJ:scholar.google.com/&output=citation&scisdr=CgVA45jvEKCS5DjU-u4:AAGBfm0AAAAAY6XS4u5LcAezF3eXi9jM_VkuZB9hzmc2&scisig=AAGBfm0AAAAAY6XS4r70vs2W1lznoTFxd4JHdJ9kVKaF&scisf=4&ct=citation&cd=-1&hl=en){: .btn--research} [code](https://github.com/LIONS-EPFL/Subquadratic-Overparameterization){: .btn--research} [arXiv](https://arxiv.org/abs/2111.01875){: .btn--research} [openreview](https://openreview.net/forum?id=NhbFhfM960){: .btn--research} 
+
+
+<img style="float: left;" src="/images/Result50_bs256.png" width="350"/>   In training deep models over multiple GPUs, the communication time required to share huge stochastic gradients is the main performance bottleneck. We closed the gap between theory and practice of unbiased gradient compression. **NUQSGD** is currently the method offering the highest communication-compression while still converging under regular (uncompressed) hyperparameter values.
+
+ 
+Ali Ramezani-Kebrya, Fartash Faghri, Ilya Markov, Vitalii Aksenov, Dan Alistarh, and Daniel M. Roy, **NUQSGD: Provably Communication-Efficient Data-Parallel SGD via Nonuniform Quantization**, Journal of Machine Learning Research, vol. 22, pp. 1-43, Apr. 2021.  
+[pdf](https://jmlr.org/papers/volume22/20-255/20-255.pdf){: .btn--research} [bib](https://www.jmlr.org/papers/v22/20-255.bib){: .btn--research} [code](https://github.com/fartashf/nuqsgd){: .btn--research} [arXiv](https://arxiv.org/abs/1908.06077){: .btn--research} 
+
+
+<img style="float: left;" src="/images/MultiGPU.png" width="350"/>   Communication-efficient variants of SGD are often heuristic and fixed over the course of training. In **Adaptive Gradient Quantization for Data-Parallel SGD**, we empirically observe that the statistics of gradients of deep models change during the training and introduce two adaptive quantization schemes. We improve the validation accuracy by almost 2% on CIFAR-10 and 1% on ImageNet in challenging low-cost communication setups.  
+
+ 
+Fartash Faghri\*, Iman Tabrizian\*, Ilya Markov, Dan Alistarh, Daniel M. Roy, and Ali Ramezani-Kebrya, **Adaptive Gradient Quantization for Data-Parallel SGD**, NeurIPS 2020.  
+[pdf](https://papers.nips.cc/paper/2020/file/20b5e1cf8694af7a3c1ba4a87f073021-Paper.pdf){: .btn--research} [bib](https://scholar.googleusercontent.com/scholar.bib?q=info:xpAwoNIuzxUJ:scholar.google.com/&output=citation&scisdr=CgVA45jvEKCS5Djck8o:AAGBfm0AAAAAY6Xai8rnX4Rz-Zrxs7QCv6ocvm8RxOKV&scisig=AAGBfm0AAAAAY6Xaiy39O8cDh_0XnYOezqMyusWtK5Cu&scisf=4&ct=citation&cd=-1&hl=en){: .btn--research} [code](https://github.com/tabrizian/learning-to-quantize){: .btn--research} [arXiv](https://arxiv.org/abs/2010.12460){: .btn--research}
+
+-----
+
+Students 
+======
+
+- Co-supervision in ML-related Projects   
+	- Thomas Michaelsen Pethick, Ph.D. in progress, EPFL.
+	- Igor Krawczuk, Ph.D. in progress, EPFL.
+	- Fabian Latorre, Ph.D. in progress, EPFL.
+	- Wanyun Xie, research assistant, EPFL.
+	- Ioannis Mavrothalassitis, master in progress, EPFL.
+	- Xiangcheng Cao, master in progress, EPFL.
+	- Seydou Fadel Mamar, master in progress, EPFL.	
+	- Mohammadamin Sharifi, summer intern, EPFL.
+	- Fartash Faghri, Ph.D. UoT,  first job after graduation: research scientist at Apple.
+	- Iman Tabrizian, M.A.Sc. UoT,  first job after graduation: full-time engineer at NVIDIA.
+	
+-----	
+
+Collaborators  and Friends of the Lab
+======
+
+- [Prof. Dan Alistarh](https://people.csail.mit.edu/alistarh/)
+- [Dr. Kimon Antonakopoulos](https://people.epfl.ch/kimon.antonakopoulos?lang=en)
+- [Prof. Volkan Cevher](https://people.epfl.ch/volkan.cevher?lang=en)
+- [Dr. Grigorios Chrysos](https://people.epfl.ch/grigorios.chrysos?lang=en)
+- [Prof. Min Dong](https://sites.google.com/ontariotechu.net/dong?pli=1) 
+- [Prof. Ben Liang](https://www.comm.utoronto.ca/~liang/) 
+- [Dr. Fanghui Liu](https://people.epfl.ch/fanghui.liu?lang=en)
+- [Prof. Petar Popovski](http://petarpopovski.es.aau.dk/)
+- [Prof. Daniel M. Roy](http://danroy.org/)
+
+
+
+
