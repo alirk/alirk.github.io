@@ -40,7 +40,7 @@ Ali Ramezani-Kebrya\*, Iman Tabrizian\*, Fartash Faghri, Ilya Markov, and Petar 
 
 
 
-<img style="float: left;" src="/images/OPnn.png" width="300"/>   Overparameterization refers to the important phenomenon where the width of a neural network is chosen such that learning algorithms can provably attain zero loss in nonconvex training. In **Subquadratic Overparameterization for Shallow Neural Networks**, we achieve the best known bounds on the number of parameters that is sufficient for gradient descent to converge to a global minimum with linear rate and probability approaching to one.
+<img style="float: left;" src="/images/OPNN.png" width="300"/>   Overparameterization refers to the important phenomenon where the width of a neural network is chosen such that learning algorithms can provably attain zero loss in nonconvex training. In **Subquadratic Overparameterization for Shallow Neural Networks**, we achieve the best known bounds on the number of parameters that is sufficient for gradient descent to converge to a global minimum with linear rate and probability approaching to one.
 
  
 Chaehwan Song\*, Ali Ramezani-Kebrya\*, Thomas Pethick, Armin Eftekhari, and Volkan Cevher, **Subquadratic Overparameterization for Shallow Neural Networks**, NeurIPS 2021.  
