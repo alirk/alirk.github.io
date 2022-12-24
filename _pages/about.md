@@ -35,7 +35,7 @@ Selected Publications
 <img style="float: left;" src="/images/MixTailor_Overview.png" width="350"/>   ML models are vulnerable to various attacks at training and test time including data/model poisoning and adversarial examples. We introduce MixTailor, a scheme based on randomization of the aggregation strategies that makes it impossible for the attacker to be fully informed.  **MixTailor: Mixed Gradient Aggregation for Robust Learning Against Tailored Attacks** increases computational complexity of designing tailored attacks for an informed adversary.
 
  
-Ali Ramezani-Kebrya\*, Iman Tabrizian\*, Fartash Faghri, Ilya Markov, and Petar Popovski, **MixTailor: Mixed Gradient Aggregation for Robust Learning Against Tailored Attacks**, Transactions on Machine Learning Research, Oct. 2022.  
+Ali Ramezani-Kebrya\*, Iman Tabrizian\*, Fartash Faghri, and Petar Popovski, **MixTailor: Mixed Gradient Aggregation for Robust Learning Against Tailored Attacks**, Transactions on Machine Learning Research, Oct. 2022.  
 [pdf](https://openreview.net/pdf?id=tqDhrbKJLS){: .btn--research} [bib](https://www.jmlr.org/tmlr/papers/bib/tqDhrbKJLS.bib){: .btn--research} [code](https://github.com/Tabrizian/mix-tailor){: .btn--research} [arXiv](https://arxiv.org/abs/2207.07941){: .btn--research} [openreview](https://openreview.net/forum?id=tqDhrbKJLS){: .btn--research} 
 
 
