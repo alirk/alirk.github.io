@@ -14,7 +14,8 @@ ETH, Zurich, Switzerland, Contributor to Course Development
 
 - Foundations of Reinforcement Learning, Summer/Fall 2021.
 
-EPFL, Lausanne, Switzerland, Contributor to Course Development- Mathematics of Data: From Theory to Computation, Summer/Fall 2021.
+EPFL, Lausanne, Switzerland, Contributor to Course Development
+- Mathematics of Data: From Theory to Computation, Summer/Fall 2021.
 
 University of Toronto, Toronto, Canada, Teaching Assistant
 
@@ -22,7 +23,7 @@ University of Toronto, Toronto, Canada, Teaching Assistant
 
 - ECE221: Electric and Magnetic Fields, Winter 2013-2018.
 
-- ECE212: Circuit Analysis, Fall 2016{2017.
+- ECE212: Circuit Analysis, Fall 2016-2017.
 
 - ECE110: Electrical Fundamentals, Winter 2015-2018; Summer 2016-2017.
 
