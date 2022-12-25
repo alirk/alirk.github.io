@@ -74,8 +74,8 @@ Students
 	- Xiangcheng Cao, master in progress, EPFL.
 	- Seydou Fadel Mamar, master in progress, EPFL.	
 	- Mohammadamin Sharifi, summer intern, EPFL.
-	- Fartash Faghri, Ph.D. UoT,  first job after graduation: research scientist at Apple.
-	- Iman Tabrizian, M.A.Sc. UoT,  first job after graduation: full-time engineer at NVIDIA.
+	- Fartash Faghri, Ph.D. UoT, first job after graduation: research scientist at Apple.
+	- Iman Tabrizian, M.A.Sc. UoT, first job after graduation: full-time engineer at NVIDIA.
 	
 -----	
 
