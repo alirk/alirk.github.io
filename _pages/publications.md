@@ -24,7 +24,7 @@ Fartash Faghri\*, Iman Tabrizian\*, Ilya Markov, Dan Alistarh, Daniel M. Roy, an
 
 -----
 
-Understand Neural Networks 
+Understanding Deep Learning 
 ======
 
 Chaehwan Song\*, Ali Ramezani-Kebrya\*, Thomas Pethick, Armin Eftekhari, and Volkan Cevher, **Subquadratic Overparameterization for Shallow Neural Networks**, NeurIPS 2021.  
