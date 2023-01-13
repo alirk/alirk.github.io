@@ -17,7 +17,7 @@ I work in machine learning and study **scalability**, **robustness**, **privacy*
 
 Recent News
 ======
-
+- 1/2023: I am now a member of the [ELLIS Society](https://ellis.eu/)!
 - 1/2023: I joined the Department of Informatics at the University of Oslo!
 - 12/2022: I gave a talk titled `Randomization Improves Deep Learning Security?` at the Annual Workshop of the VILLUM Investigator Grant at Aalborg University. 
 - 10/2022: Our paper *[MixTailor: Mixed Gradient Aggregation for Robust Learning Against Tailored Attacks](https://openreview.net/pdf?id=tqDhrbKJLS)* has been published in **Transactions on Machine Learning Research**. 
