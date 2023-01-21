@@ -17,6 +17,7 @@ I work in machine learning and study **scalability**, **robustness**, **privacy*
 
 Recent News
 ======
+- 1/2023: Our paper *[Distributed Extra-gradient with Optimal Complexity and Communication Guarantees](https://openreview.net/pdf?id=b3itJyarLM0)* has been accepted to **ICLR 2023**.
 - 1/2023: I am now a member of the [ELLIS Society](https://ellis.eu/)!
 - 1/2023: I joined the Department of Informatics at the University of Oslo!
 - 12/2022: I gave a talk titled `Randomization Improves Deep Learning Security?` at the Annual Workshop of the VILLUM Investigator Grant at Aalborg University. 
@@ -30,7 +31,9 @@ Recent News
 
 Selected Publications
 ======
-
+<img style="float: left;" src="/images/FID_evolution.png" width="350"/>  Beyond supervised learning, we accelerate large-scale monotone variational inequality problems with applications such as training GANs in  distributed settings. We propose **quantized generalized extra-gradient (Q-GenX) family of algorithms** with the optimal rate of convergence and achieve noticeable speedups when training GANs on multiple GPUs without performance degradation.  
+ 
+Ali Ramezani-Kebrya\*, Kimon Antonakopoulos\*, Igor Krawczuk\*, Justin Deschenaux\*, and Volkan Cevher, **Distributed Extra-gradient with Optimal Complexity and Communication Guarantees**, to appear at ICLR 2023.
 
 <img style="float: left;" src="/images/MixTailor_Overview.png" width="350"/>   ML models are vulnerable to various attacks at training and test time including data/model poisoning and adversarial examples. We introduce MixTailor, a scheme based on randomization of the aggregation strategies that makes it impossible for the attacker to be fully informed.  **MixTailor: Mixed Gradient Aggregation for Robust Learning Against Tailored Attacks** increases computational complexity of designing tailored attacks for an informed adversary.
 

@@ -15,6 +15,7 @@ Ali Ramezani-Kebrya\*, Iman Tabrizian\*, Fartash Faghri, and Petar Popovski, **M
 
 Scalable Deep Learning   
 ======
+Ali Ramezani-Kebrya\*, Kimon Antonakopoulos\*, Igor Krawczuk\*, Justin Deschenaux\*, and Volkan Cevher, **Distributed Extra-gradient with Optimal Complexity and Communication Guarantees**, to appear at ICLR 2023.
 
 Ali Ramezani-Kebrya, Fartash Faghri, Ilya Markov, Vitalii Aksenov, Dan Alistarh, and Daniel M. Roy, **NUQSGD: Provably Communication-Efficient Data-Parallel SGD via Nonuniform Quantization**, Journal of Machine Learning Research, vol. 22, pp. 1-43, Apr. 2021.  
 [pdf](https://jmlr.org/papers/volume22/20-255/20-255.pdf){: .btn--research} [bib](https://www.jmlr.org/papers/v22/20-255.bib){: .btn--research} [code](https://github.com/fartashf/nuqsgd){: .btn--research} [arXiv](https://arxiv.org/abs/1908.06077){: .btn--research}  
