@@ -17,6 +17,7 @@ I work in machine learning and study **scalability**, **robustness**, **privacy*
 
 Recent News
 ======
+- 1/2023: We have an open [Ph.D. position](https://www.jobbnorge.no/en/available-jobs/job/239426/phd-research-fellow-in-machine-learning). Deadline: 28 Feb, 2023. 
 - 1/2023: Our paper *[Distributed Extra-gradient with Optimal Complexity and Communication Guarantees](https://openreview.net/pdf?id=b3itJyarLM0)* has been accepted to **ICLR 2023**.
 - 1/2023: I am now a member of the [ELLIS Society](https://ellis.eu/)!
 - 1/2023: I joined the Department of Informatics at the University of Oslo!
