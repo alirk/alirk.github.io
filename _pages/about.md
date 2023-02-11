@@ -73,11 +73,11 @@ Students
 	- Thomas Michaelsen Pethick, Ph.D. in progress, EPFL.
 	- Igor Krawczuk, Ph.D. in progress, EPFL.
 	- Fabian Latorre, Ph.D. in progress, EPFL.
-	- Wanyun Xie, research assistant, EPFL.
 	- Ioannis Mavrothalassitis, master in progress, EPFL.
 	- Xiangcheng Cao, master in progress, EPFL.
 	- Seydou Fadel Mamar, master in progress, EPFL.	
 	- Mohammadamin Sharifi, summer intern, EPFL.
+	- Wanyun Xie, MSc KTH,  first job after graduation: Ph.D. at EPFL.
 	- Fartash Faghri, Ph.D. UoT, first job after graduation: research scientist at Apple.
 	- Iman Tabrizian, M.A.Sc. UoT, first job after graduation: full-time engineer at NVIDIA.
 	
