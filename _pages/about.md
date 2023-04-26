@@ -36,7 +36,8 @@ Selected Publications
 ======
 <img style="float: left;" src="/images/FID_evolution.png" width="350"/>  Beyond supervised learning, we accelerate large-scale monotone variational inequality problems with applications such as training GANs in  distributed settings. We propose **quantized generalized extra-gradient (Q-GenX) family of algorithms** with the optimal rate of convergence and achieve noticeable speedups when training GANs on multiple GPUs without performance degradation.  
  
-Ali Ramezani-Kebrya\*, Kimon Antonakopoulos\*, Igor Krawczuk\*, Justin Deschenaux\*, and Volkan Cevher, **Distributed Extra-gradient with Optimal Complexity and Communication Guarantees**, to appear at ICLR 2023.
+Ali Ramezani-Kebrya\*, Kimon Antonakopoulos\*, Igor Krawczuk\*, Justin Deschenaux\*, and Volkan Cevher, **Distributed Extra-gradient with Optimal Complexity and Communication Guarantees**, ICLR 2023.
+[pdf](https://openreview.net/pdf?id=b3itJyarLM0){: .btn--research} [bib](https://scholar.googleusercontent.com/scholar.bib?q=info:0Rc5SDH6BLEJ:scholar.google.com/&output=citation&scisdr=Cpu_FFPiEKCS49Q_XLg:AJ9-iYsAAAAAZEk5RLiokHqP3Zwtjs3yxY4tW3g&scisig=AJ9-iYsAAAAAZEk5RPim2bqJoOMe3WMWc15niVM&scisf=4&ct=citation&cd=-1&hl=en){: .btn--research} [code](https://github.com/LIONS-EPFL/QGENX){: .btn--research} [openreview](https://openreview.net/forum?id=b3itJyarLM0){: .btn--research} 
 
 <img style="float: left;" src="/images/MixTailor_Overview.png" width="350"/>   ML models are vulnerable to various attacks at training and test time including data/model poisoning and adversarial examples. We introduce MixTailor, a scheme based on randomization of the aggregation strategies that makes it impossible for the attacker to be fully informed.  **MixTailor: Mixed Gradient Aggregation for Robust Learning Against Tailored Attacks** increases computational complexity of designing tailored attacks for an informed adversary.
 
