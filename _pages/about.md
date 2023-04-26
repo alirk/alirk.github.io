@@ -17,11 +17,13 @@ I work in machine learning and study **scalability**, **robustness**, **privacy*
 
 Recent News
 ======
+- 4/2023: I am now a PI at the [Visual Intelligence](https://www.visual-intelligence.no/)!
+- 3/2023: I gave a talk titled [Scalable and Robust Deep Learning](https://www.youtube.com/watch?v=kjaAfse9fzY&t=1120s&ab_channel=SFIVisualIntelligence) at the Visual Intelligence.
 - 1/2023: We have an open [Ph.D. position](https://www.jobbnorge.no/en/available-jobs/job/239426/phd-research-fellow-in-machine-learning). Deadline: 28 Feb, 2023. 
 - 1/2023: Our paper *[Distributed Extra-gradient with Optimal Complexity and Communication Guarantees](https://openreview.net/pdf?id=b3itJyarLM0)* has been accepted to **ICLR 2023**.
 - 1/2023: I am now a member of the [ELLIS Society](https://ellis.eu/)!
 - 1/2023: I joined the Department of Informatics at the University of Oslo!
-- 12/2022: I gave a talk titled `Randomization Improves Deep Learning Security?` at the Annual Workshop of the VILLUM Investigator Grant at Aalborg University. 
+- 12/2022: I gave a talk titled `Randomization Improves Deep Learning Security` at the Annual Workshop of the VILLUM Investigator Grant at Aalborg University. 
 - 10/2022: Our paper *[MixTailor: Mixed Gradient Aggregation for Robust Learning Against Tailored Attacks](https://openreview.net/pdf?id=tqDhrbKJLS)* has been published in **Transactions on Machine Learning Research**. 
 - 8/2022: I gave a talk titled `How Did DL Dominate Today’s ML? What Challenges and Limitations Remain?` at the University of Oslo.
 - 6/2022: I gave a talk titled `Scalable ML: Communication-efficiency, Security, and Architecture Design` at the University of Edinburgh.
