@@ -17,6 +17,7 @@ I work in machine learning and study **scalability**, **robustness**, **privacy*
 
 Recent News
 ======
+- 6/2023: Our paper *[Federated Learning under Covariate Shifts with Generalization Guarantees](https://openreview.net/pdf?id=N7lCDaeNiS)* has been published in **Transactions on Machine Learning Research**.
 - 4/2023: I am now a PI at the [Visual Intelligence](https://www.visual-intelligence.no/)!
 - 3/2023: I gave a talk titled [Scalable and Robust Deep Learning](https://www.youtube.com/watch?v=kjaAfse9fzY&t=1120s&ab_channel=SFIVisualIntelligence) at the Visual Intelligence.
 - 1/2023: We have an open [Ph.D. position](https://www.jobbnorge.no/en/available-jobs/job/239426/phd-research-fellow-in-machine-learning). Deadline: 28 Feb, 2023. 
@@ -34,6 +35,11 @@ Recent News
 
 Selected Publications
 ======
+<img style="float: left;" src="/images/FIDEM2.png" width="320"/>  Even for a single client, the distribution shift between training and test data, i.e., intra-client distribution shift,has been a major challenge for decades. For instance, scarce disease data for training and test in a local hospital can be different. We focus on the **overall generalization** performance on multiple clients  and modify the classical ERM to obtain an unbiased estimate of an overall true risk minimizer under **intra-client and inter-client covariate shifts**, develop an efficient density ratio estimation method under stringent privacy requirements of federated learning, and show importance-weighted ERM achieves smaller generalization error than classical ERM.
+
+Ali Ramezani-Kebrya\*, Fanghui Liu\*, Thomas Pethick\*, Grigorios Chrysos, and Volkan Cevher, **Federated Learning under Covariate Shifts with Generalization Guarantees**, Transactions on Machine Learning Research, June 2023.  
+[pdf](https://openreview.net/pdf?id=N7lCDaeNiS){: .btn--research} [code](https://github.com/LIONS-EPFL/Federated_Learning_Covariate_Shift_Code){: .btn--research} [openreview](https://openreview.net/forum?id=N7lCDaeNiS){: .btn--research} 
+
 <img style="float: left;" src="/images/FID_evolution.png" width="350"/>  Beyond supervised learning, we accelerate large-scale monotone variational inequality problems with applications such as training GANs in  distributed settings. We propose **quantized generalized extra-gradient (Q-GenX) family of algorithms** with the optimal rate of convergence and achieve noticeable speedups when training GANs on multiple GPUs without performance degradation.  
  
 Ali Ramezani-Kebrya\*, Kimon Antonakopoulos\*, Igor Krawczuk\*, Justin Deschenaux\*, and Volkan Cevher, **Distributed Extra-gradient with Optimal Complexity and Communication Guarantees**, ICLR 2023.  

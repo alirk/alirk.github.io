@@ -8,6 +8,9 @@ author_profile: true
 Robust and Secure Deep Learning   
 ======
 
+Ali Ramezani-Kebrya\*, Fanghui Liu\*, Thomas Pethick\*, Grigorios Chrysos, and Volkan Cevher, **Federated Learning under Covariate Shifts with Generalization Guarantees**, Transactions on Machine Learning Research, June 2023.  
+[pdf](https://openreview.net/pdf?id=N7lCDaeNiS){: .btn--research} [code](https://github.com/LIONS-EPFL/Federated_Learning_Covariate_Shift_Code){: .btn--research} [openreview](https://openreview.net/forum?id=N7lCDaeNiS){: .btn--research} 
+
 Ali Ramezani-Kebrya\*, Iman Tabrizian\*, Fartash Faghri, and Petar Popovski, **MixTailor: Mixed Gradient Aggregation for Robust Learning Against Tailored Attacks**, Transactions on Machine Learning Research, Oct. 2022.  
 [pdf](https://openreview.net/pdf?id=tqDhrbKJLS){: .btn--research} [bib](https://www.jmlr.org/tmlr/papers/bib/tqDhrbKJLS.bib){: .btn--research} [code](https://github.com/Tabrizian/mix-tailor){: .btn--research} [arXiv](https://arxiv.org/abs/2207.07941){: .btn--research} [openreview](https://openreview.net/forum?id=tqDhrbKJLS){: .btn--research}  
 
