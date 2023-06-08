@@ -82,7 +82,6 @@ Students
 	- Thomas Michaelsen Pethick, Ph.D. in progress, EPFL.
 	- Igor Krawczuk, Ph.D. in progress, EPFL.
 	- Fabian Latorre, Ph.D. in progress, EPFL.
-	- Ioannis Mavrothalassitis, master in progress, EPFL.
 	- Xiangcheng Cao, master in progress, EPFL.
 	- Seydou Fadel Mamar, master in progress, EPFL.	
 	- Mohammadamin Sharifi, summer intern, EPFL.
