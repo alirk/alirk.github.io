@@ -78,6 +78,9 @@ Fartash Faghri\*, Iman Tabrizian\*, Ilya Markov, Dan Alistarh, Daniel M. Roy, an
 Students 
 ======
 
+- Supervision 
+	- Zhiyuan Wu, Ph.D. in progress, University of Oslo.
+
 - Co-supervision in ML-related Projects   
 	- Thomas Michaelsen Pethick, Ph.D. in progress, EPFL.
 	- Igor Krawczuk, Ph.D. in progress, EPFL.
