@@ -8,15 +8,24 @@ redirect_from:
   - /about.html
 ---
 
-I am an Associate Professor (with tenure) in the [Department of Informatics](https://www.mn.uio.no/ifi/english/index.html) at the [University of Oslo (UiO)](https://www.uio.no/english/). Before joining UiO, I was a Senior Scientific Collaborator at [EPFL](https://www.epfl.ch/en/), working with [Prof. Volkan Cevher](https://people.epfl.ch/volkan.cevher?lang=en) in [Laboratory for Information and Inference Systems (LIONS)](https://www.epfl.ch/labs/lions/). Before joining LIONS, I was an [NSERC Postdoctoral Fellow](https://www.nserc-crsng.gc.ca/students-etudiants/pd-np/pdf-bp_eng.asp) at the [Vector Institute](https://vectorinstitute.ai/) in Toronto working with [Prof. Daniel M. Roy](http://danroy.org/). I received my Ph.D. from the [University of Toronto](https://www.utoronto.ca/) where I was very fortunate to be advised by [Prof. Ben Liang](https://www.comm.utoronto.ca/~liang/) and [Prof. Min Dong](https://sites.google.com/ontariotechu.net/dong?pli=1). My Ph.D. research was focused on developing theory and practices for next generation large-scale distributed and heterogeneous networks. I am a member of the [ELLIS Society](https://ellis.eu/). 
+I am an Associate Professor (with tenure) in the [Department of Informatics](https://www.mn.uio.no/ifi/english/index.html) at the [University of Oslo (UiO)](https://www.uio.no/english/), a PI at the [SFI Visual Intelligence](https://www.visual-intelligence.no/), and the [Norwegian Center for Knowledge-driven Machine Learning (Integreat)](https://www.integreat.no/), and a member of the [European Laboratory for Learning and Intelligent Systems (ELLIS) Society](https://ellis.eu/).
 
 
-I work in machine learning and study **scalability**, **robustness**, **privacy**, **generalization**, and **stability** aspects of machine learning algorithms. In particular, I am developing **highly scalable**, **privacy-preserving**, and **robust** algorithms to train very large models in a distributed manner. Our algorithms can be used in so-called *federated learning* settings, where a deep model is trained on data distributed among multiple owners who cannot necessarily share their data, e.g., due to privacy concerns, competition, or by law. I also study the design of the underlying architecture, e.g, **neural networks** over which a learning algorithm is applied, in particular, the fundamental question of *How much should we overparameterize a neural network?*
+Before joining UiO, I was a Senior Scientific Collaborator at [EPFL](https://www.epfl.ch/en/), working with [Prof. Volkan Cevher](https://people.epfl.ch/volkan.cevher?lang=en) in [Laboratory for Information and Inference Systems (LIONS)](https://www.epfl.ch/labs/lions/). Before joining LIONS, I was an [NSERC Postdoctoral Fellow](https://www.nserc-crsng.gc.ca/students-etudiants/pd-np/pdf-bp_eng.asp) at the [Vector Institute](https://vectorinstitute.ai/) in Toronto working with [Prof. Daniel M. Roy](http://danroy.org/). I received my Ph.D. from the [University of Toronto](https://www.utoronto.ca/) where I was very fortunate to be advised by [Prof. Ben Liang](https://www.comm.utoronto.ca/~liang/) and [Prof. Min Dong](https://sites.google.com/ontariotechu.net/dong?pli=1). 
+
+My current research is focused on **understanding how the input data distribution is encoded within layers of popular neural networks** and developing **theoretical concepts** and **practical tools** to minimize the statistical risk under resource constraints and realistic settings referring to **statistical and system** characteristics contrary to an ideal learning setting. I am interested in a broad range of applications including but not limited to **neuroscience**, **autonomous navigation and driving**, **designing next-generation networks**, and **medical data**.
 
 -----
 
 Recent News
 ======
+- 1/2024: We will have Multiple Exciting Ph.D. Positions through [Integreat](https://www.integreat.no/) joint with wonderful Computer Scientists, Statisticians, and Mathematicians across Norway!
+- 1/2024: I am the main organizer of [Integreat](https://www.integreat.no/) **Discrepancies Seminar Series**.
+- 1/2024: I am a Program Chair at the [Northern Lights Deep Learning Conference (NLDL 2024)](https://www.nldl.org/).
+- 12/2024: Our new PhD research fellow  Amir Arfan has started the PhD through SUURPh programme. Welcome Amir!
+- 10/2023: I gave a talk titled **Learning under Resource Constraints in Real World** at the  [University of Toronto](https://www.ece.utoronto.ca/).
+- 9/2023: I gave a talk titled **Learning under Resource Constraints in Real World** at the  [University of Copenhagen](https://www.aicentre.dk/).
+- 9/2023: I gave a talk titled **Learning under Resource Constraints in Real World** at [Integreat](https://www.integreat.no/).
 - 6/2023: Our paper *[Federated Learning under Covariate Shifts with Generalization Guarantees](https://openreview.net/pdf?id=N7lCDaeNiS)* has been published in **Transactions on Machine Learning Research**.
 - 4/2023: I am now a PI at the [Visual Intelligence](https://www.visual-intelligence.no/)!
 - 3/2023: I gave a talk titled [Scalable and Robust Deep Learning](https://www.youtube.com/watch?v=kjaAfse9fzY&t=1120s&ab_channel=SFIVisualIntelligence) at the Visual Intelligence.
@@ -80,8 +89,10 @@ Students
 
 - Supervision at the University of Oslo 
 	- Zhiyuan Wu, Ph.D. in progress, University of Oslo.
+	- Amir Arfan, Ph.D. in progress, University of Oslo.
 
-- Co-supervision at the University of Toronto and EPFL    
+- Co-supervision at the University of Toronto and EPFL  
+	- Anh Duc Nguyen, undergraduate intern, EPFL.    
 	- Thomas Michaelsen Pethick, Ph.D. in progress, EPFL.
 	- Igor Krawczuk, Ph.D. in progress, EPFL.
 	- Fabian Latorre, Ph.D. in progress, EPFL.
@@ -94,18 +105,23 @@ Students
 	
 -----	
 
-Collaborators  and Friends of the Lab
+Major Collaborators
 ======
 
 - [Prof. Dan Alistarh](https://people.csail.mit.edu/alistarh/)
-- [Dr. Kimon Antonakopoulos](https://people.epfl.ch/kimon.antonakopoulos?lang=en)
+- [Prof. Andreas Austeng](https://www.mn.uio.no/ifi/personer/vit/andrea/)
+- [Prof. Mohammad Hossein Anisi](https://www.essex.ac.uk/people/ANISI58203/Hossein-Anisi)
 - [Prof. Volkan Cevher](https://people.epfl.ch/volkan.cevher?lang=en)
-- [Dr. Grigorios Chrysos](https://people.epfl.ch/grigorios.chrysos?lang=en)
-- [Prof. Min Dong](https://sites.google.com/ontariotechu.net/dong?pli=1) 
-- [Prof. Ben Liang](https://www.comm.utoronto.ca/~liang/) 
-- [Dr. Fanghui Liu](https://people.epfl.ch/fanghui.liu?lang=en)
-- [Prof. Petar Popovski](http://petarpopovski.es.aau.dk/)
+- [Prof. Arnoldo Frigessi](https://www.med.uio.no/imb/english/people/aca/frigessi/)
+- [Prof. Carsten Griwodz](https://www.mn.uio.no/ifi/english/people/aca/griff/) 
+- [Prof. Robert Jenssen](https://en.uit.no/ansatte/person?p_document_id=41060)
+- [Prof. Ole Christian Lingjærde](https://www.mn.uio.no/ifi/personer/vit/ole/)
+- [Prof. Sven Peter Näsholm](https://www.mn.uio.no/ifi/english/people/aca/svenpn/)
+- [Prof. Benjamin Ricaud](https://en.uit.no/ansatte/person?p_document_id=741975)
+- [Prof. Sylvia Richardson](https://www.mrc-bsu.cam.ac.uk/people/in-alphabetical-order/n-to-s/sylvia-richardson/)
+- [Prof. Adín Ramírez Rivera](https://www.mn.uio.no/ifi/english/people/aca/adinr/)
 - [Prof. Daniel M. Roy](http://danroy.org/)
+- [Prof. Jorgen Afseth Sugar](https://www.med.uio.no/imb/personer/vit/jorgels/)
 
 
 

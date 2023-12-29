@@ -9,6 +9,9 @@ permalink: /teaching/
 author_profile: true
 
 ---
+UiO, Oslo, Norway, Main Instructor
+
+- Deep Learning for Image Analysis, Spring 2024.
 
 ETH, Zurich, Switzerland, Contributor to Course Development
 
