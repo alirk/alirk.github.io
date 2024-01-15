@@ -19,6 +19,7 @@ My current research is focused on **understanding how the input data distributio
 
 Recent News
 ======
+- 1/2024: Our paper *[On the Generalization of Stochastic Gradient Descent with Momentum](https://www.comm.utoronto.ca/~liang/publications/JMLR_GeneralizationSGDEM.pdf)* has been accepted to the **Journal of Machine Learning Research**.
 - 1/2024: We will have Multiple Exciting Ph.D. Positions through [Integreat](https://www.integreat.no/) joint with wonderful Computer Scientists, Statisticians, and Mathematicians across Norway!
 - 1/2024: I am the main organizer of [Integreat](https://www.integreat.no/) **Discrepancies Seminar Series**.
 - 1/2024: I am a Program Chair at the [Northern Lights Deep Learning Conference (NLDL 2024)](https://www.nldl.org/).
