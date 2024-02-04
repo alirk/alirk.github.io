@@ -19,6 +19,7 @@ My current research is focused on **understanding how the input data distributio
 
 Recent News
 ======
+- 2/2024: I have [**Three PhD Positions in ML (Projects 9,4,3)**](https://www.integreat.no/news/join-integreat-apply-now-for-13-phd-positions-and-.html)
 - 1/2024: We have one [postdoc position](https://www.jobbnorge.no/en/available-jobs/job/255679/dstrain-msca-postdoctoral-fellowships-in-computational-and-natural-sciences-18-positions) in "Joint Physics-informed and Data-driven Complex Dynamical System Solvers".
 - 1/2024: Our paper *[On the Generalization of Stochastic Gradient Descent with Momentum](https://www.comm.utoronto.ca/~liang/publications/JMLR_GeneralizationSGDEM.pdf)* has been accepted to the **Journal of Machine Learning Research**.
 - 1/2024: We will have Multiple Exciting Ph.D. Positions through [Integreat](https://www.integreat.no/) joint with wonderful Computer Scientists, Statisticians, and Mathematicians across Norway!
