@@ -21,6 +21,7 @@ Recent News
 ======
 - 2/2024: I have [**Three PhD Positions in ML (Projects 9,4,3)**](https://www.integreat.no/news/join-integreat-apply-now-for-13-phd-positions-and-.html).
 - 2/2024: We have one [postdoc position](https://www.jobbnorge.no/en/available-jobs/job/255679/dstrain-msca-postdoctoral-fellowships-in-computational-and-natural-sciences-18-positions) in "Joint Physics-informed and Data-driven Complex Dynamical System Solvers".
+- 2/2024: Our paper *[Mixed Nash for Robust Federated Learning](https://openreview.net/pdf?id=mqMzerrVOB)* has been accepted to the **Transactions on Machine Learning Research**.
 - 2/2024: The Research Excellence Center [SFI Visual Intelligence](https://www.visual-intelligence.no/) has recognized our work [Federated Learning under Covariate Shifts with Generalization Guarantees](https://openreview.net/pdf?id=N7lCDaeNiS) as **Spotlight Publications** from 2023!
 - 2/2024: I will be a panelist at AI Cybersecurity Research & Science organized with Microsoft, Abelia and Digital Norway. 
 - 1/2024: Our paper *[On the Generalization of Stochastic Gradient Descent with Momentum](https://www.comm.utoronto.ca/~liang/publications/JMLR_GeneralizationSGDEM.pdf)* has been accepted to the **Journal of Machine Learning Research**.
@@ -114,20 +115,20 @@ Students
 Major Collaborators
 ======
 
-- [Prof. Dan Alistarh](https://people.csail.mit.edu/alistarh/)
-- [Prof. Andreas Austeng](https://www.mn.uio.no/ifi/personer/vit/andrea/)
-- [Prof. Mohammad Hossein Anisi](https://www.essex.ac.uk/people/ANISI58203/Hossein-Anisi)
-- [Prof. Volkan Cevher](https://people.epfl.ch/volkan.cevher?lang=en)
-- [Prof. Arnoldo Frigessi](https://www.med.uio.no/imb/english/people/aca/frigessi/)
-- [Prof. Carsten Griwodz](https://www.mn.uio.no/ifi/english/people/aca/griff/) 
-- [Prof. Robert Jenssen](https://en.uit.no/ansatte/person?p_document_id=41060)
-- [Prof. Ole Christian Lingjærde](https://www.mn.uio.no/ifi/personer/vit/ole/)
-- [Prof. Sven Peter Näsholm](https://www.mn.uio.no/ifi/english/people/aca/svenpn/)
-- [Prof. Benjamin Ricaud](https://en.uit.no/ansatte/person?p_document_id=741975)
-- [Prof. Sylvia Richardson](https://www.mrc-bsu.cam.ac.uk/people/in-alphabetical-order/n-to-s/sylvia-richardson/)
-- [Prof. Adín Ramírez Rivera](https://www.mn.uio.no/ifi/english/people/aca/adinr/)
-- [Prof. Daniel M. Roy](http://danroy.org/)
-- [Prof. Jorgen Afseth Sugar](https://www.med.uio.no/imb/personer/vit/jorgels/)
+- [Dan Alistarh](https://people.csail.mit.edu/alistarh/)
+- [Andreas Austeng](https://www.mn.uio.no/ifi/personer/vit/andrea/)
+- [Mohammad Hossein Anisi](https://www.essex.ac.uk/people/ANISI58203/Hossein-Anisi)
+- [Volkan Cevher](https://people.epfl.ch/volkan.cevher?lang=en)
+- [Arnoldo Frigessi](https://www.med.uio.no/imb/english/people/aca/frigessi/)
+- [Carsten Griwodz](https://www.mn.uio.no/ifi/english/people/aca/griff/) 
+- [Robert Jenssen](https://en.uit.no/ansatte/person?p_document_id=41060)
+- [Ole Christian Lingjærde](https://www.mn.uio.no/ifi/personer/vit/ole/)
+- [Sven Peter Näsholm](https://www.mn.uio.no/ifi/english/people/aca/svenpn/)
+- [Benjamin Ricaud](https://en.uit.no/ansatte/person?p_document_id=741975)
+- [Sylvia Richardson](https://www.mrc-bsu.cam.ac.uk/people/in-alphabetical-order/n-to-s/sylvia-richardson/)
+- [Adín Ramírez Rivera](https://www.mn.uio.no/ifi/english/people/aca/adinr/)
+- [Daniel M. Roy](http://danroy.org/)
+- [Jorgen Afseth Sugar](https://www.med.uio.no/imb/personer/vit/jorgels/)
 
 
 
