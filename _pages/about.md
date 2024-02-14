@@ -23,7 +23,7 @@ Recent News
 - 2/2024: We have one [postdoc position](https://www.jobbnorge.no/en/available-jobs/job/255679/dstrain-msca-postdoctoral-fellowships-in-computational-and-natural-sciences-18-positions) in "Joint Physics-informed and Data-driven Complex Dynamical System Solvers".
 - 2/2024: Our paper *[Mixed Nash for Robust Federated Learning](https://openreview.net/pdf?id=mqMzerrVOB)* has been accepted to the **Transactions on Machine Learning Research**.
 - 2/2024: The Research Excellence Center [SFI Visual Intelligence](https://www.visual-intelligence.no/) has recognized our work [Federated Learning under Covariate Shifts with Generalization Guarantees](https://openreview.net/pdf?id=N7lCDaeNiS) as **Spotlight Publications** from 2023!
-- 2/2024: I will be a panelist at [**AI Industry Week 10-12 April Telenor Arena**](https://aiindustryweek.no/#speakers) talking about AI Cybersecurity Research and Science. 
+- 2/2024: I will be a panelist at [**AI Industry Week 10-12 April Telenor Arena**](https://aiindustryweek.no/#speakers) talking about AI Cybersecurity Research and Science.   
 - 1/2024: Our paper *[On the Generalization of Stochastic Gradient Descent with Momentum](https://www.comm.utoronto.ca/~liang/publications/JMLR_GeneralizationSGDEM.pdf)* has been accepted to the **Journal of Machine Learning Research**.
 - 1/2024: We will have Multiple Exciting Ph.D. Positions through [Integreat](https://www.integreat.no/) joint with wonderful Computer Scientists, Statisticians, and Mathematicians across Norway!
 - 1/2024: I am the main organizer of [Integreat](https://www.integreat.no/) **Discrepancies Seminar Series**.
