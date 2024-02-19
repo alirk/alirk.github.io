@@ -49,6 +49,11 @@ Recent News
 
 Selected Publications
 ======
+<img style="float: left;" src="/images/SGDEM.png" width="350"/>  We have shown it is crucial to establish an appropriate balance between the **optimization error** associated with the empirical risk and the **generalization error** when accelerating SGD with momentum and established generalization error bounds and explicit convergence rates for SGD with momentum under a broad range of hyperparameters including a general step-size rule.
+
+Ali Ramezani-Kebrya, Kimon Antonakopoulos, Volkan Cevher, Ashish Khisti, and Ben Liang, **On the Generalization of Stochastic Gradient Descent with Momentum**, Journal of Machine Learning Research, vol. 25, pp. 1-56, Jan. 2024.  
+[pdf](https://jmlr.org/papers/v25/22-0068.html){: .btn--research} [bib](https://jmlr.org/papers/v25/22-0068.bib){: .btn--research} [arXiv](https://arxiv.org/abs/1809.04564){: .btn--research}
+
 <img style="float: left;" src="/images/FIDEM2.png" width="320"/>  Even for a single client, the distribution shift between training and test data, i.e., intra-client distribution shift,has been a major challenge for decades. For instance, scarce disease data for training and test in a local hospital can be different. We focus on the **overall generalization** performance on multiple clients  and modify the classical ERM to obtain an unbiased estimate of an overall true risk minimizer under **intra-client and inter-client covariate shifts**, develop an efficient density ratio estimation method under stringent privacy requirements of federated learning, and show importance-weighted ERM achieves smaller generalization error than classical ERM.
 
 Ali Ramezani-Kebrya\*, Fanghui Liu\*, Thomas Pethick\*, Grigorios Chrysos, and Volkan Cevher, **Federated Learning under Covariate Shifts with Generalization Guarantees**, Transactions on Machine Learning Research, June 2023.  
