@@ -49,7 +49,7 @@ Recent News
 
 Selected Publications
 ======
-<img style="float: left;" src="/images/SGDEM.png" width="320"/>  We have shown it is crucial to establish an appropriate balance between the **optimization error** associated with the empirical risk and the **generalization error** when accelerating SGD with momentum and established generalization error bounds and explicit convergence rates for SGD with momentum under a broad range of hyperparameters including a general step-size rule.
+<img style="float: left;" src="/images/SGDEM.png" width="320"/>  We have shown it is crucial to establish an appropriate balance between the **optimization error** associated with the empirical risk and the **generalization error** when accelerating SGD with momentum and established generalization error bounds and explicit convergence rates for SGD with momentum under a broad range of hyperparameters including a general step-size rule. For smooth Lipschitz loss functions, we analyze SGD with early momentum (SGDEM) under a broad rangeof step-sizes, and show that it can train machine learning models for multiple epochs with a guarantee for generalization.
 
 Ali Ramezani-Kebrya, Kimon Antonakopoulos, Volkan Cevher, Ashish Khisti, and Ben Liang, **On the Generalization of Stochastic Gradient Descent with Momentum**, Journal of Machine Learning Research, vol. 25, pp. 1-56, Jan. 2024.  
 [pdf](https://jmlr.org/papers/v25/22-0068.html){: .btn--research} [bib](https://jmlr.org/papers/v25/22-0068.bib){: .btn--research} [arXiv](https://arxiv.org/abs/1809.04564){: .btn--research}
