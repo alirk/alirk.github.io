@@ -34,7 +34,7 @@ Fartash Faghri\*, Iman Tabrizian\*, Ilya Markov, Dan Alistarh, Daniel M. Roy, an
 Understanding Deep Learning 
 ======
 Ali Ramezani-Kebrya, Kimon Antonakopoulos, Volkan Cevher, Ashish Khisti, and Ben Liang, **On the Generalization of Stochastic Gradient Descent with Momentum**, Journal of Machine Learning Research, vol. 25, pp. 1-56, Jan. 2024.  
-[pdf](https://www.comm.utoronto.ca/~liang/publications/JMLR_GeneralizationSGDEM.pdf){: .btn--research} [arXiv](https://arxiv.org/abs/1809.04564){: .btn--research} 
+[pdf](https://jmlr.org/papers/v25/22-0068.html){: .btn--research} [bib](https://jmlr.org/papers/v25/22-0068.bib){: .btn--research} [arXiv](https://arxiv.org/abs/1809.04564){: .btn--research} 
 
 Chaehwan Song\*, Ali Ramezani-Kebrya\*, Thomas Pethick, Armin Eftekhari, and Volkan Cevher, **Subquadratic Overparameterization for Shallow Neural Networks**, NeurIPS 2021.  
 [pdf](https://proceedings.neurips.cc/paper/2021/file/5d9e4a04afb9f3608ccc76c1ffa7573e-Paper.pdf){: .btn--research} [bib](https://scholar.googleusercontent.com/scholar.bib?q=info:kx3LBH3jDHQJ:scholar.google.com/&output=citation&scisdr=CgVA45jvEKCS5DjU-u4:AAGBfm0AAAAAY6XS4u5LcAezF3eXi9jM_VkuZB9hzmc2&scisig=AAGBfm0AAAAAY6XS4r70vs2W1lznoTFxd4JHdJ9kVKaF&scisf=4&ct=citation&cd=-1&hl=en){: .btn--research} [code](https://github.com/LIONS-EPFL/Subquadratic-Overparameterization){: .btn--research} [arXiv](https://arxiv.org/abs/2111.01875){: .btn--research} [openreview](https://openreview.net/forum?id=NhbFhfM960){: .btn--research} 
