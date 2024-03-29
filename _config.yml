@@ -82,7 +82,12 @@ analytics:
 author:
   name             : "Ali Ramezani-Kebrya"
   avatar           : "ali_press.jpg"
-  bio              : "Associate Professor in CS" "PI at Integreat" "PI at Visual Intelligence" ELLIS Member" "Area Chair of NeurIPS"
+  bio              : | 
+		     "Associate Professor in CS" 
+		     "PI at Integreat" 
+		     "PI at Visual Intelligence" 
+		     "ELLIS Member"
+		     "Area Chair of NeurIPS"
   location         : 
   employer         : "University of Oslo (UiO)"
   pubmed           : 
