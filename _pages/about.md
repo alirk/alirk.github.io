@@ -18,11 +18,12 @@ My current research is focused on **understanding how the input data distributio
 
 Recent News
 ======
+- 3/2024: I will serve as an Area Chair of NeurIPS 2024. 
 - 2/2024: I have [**Three PhD Positions in ML (Projects 9,4,3)**](https://www.integreat.no/news/join-integreat-apply-now-for-13-phd-positions-and-.html).
 - 2/2024: We have one [postdoc position](https://www.jobbnorge.no/en/available-jobs/job/255679/dstrain-msca-postdoctoral-fellowships-in-computational-and-natural-sciences-18-positions) in "Joint Physics-informed and Data-driven Complex Dynamical System Solvers".
 - 2/2024: Our paper *[Mixed Nash for Robust Federated Learning](https://openreview.net/pdf?id=mqMzerrVOB)* has been accepted to the **Transactions on Machine Learning Research**.
 - 2/2024: The Research Excellence Center [SFI Visual Intelligence](https://www.visual-intelligence.no/) has recognized our work [Federated Learning under Covariate Shifts with Generalization Guarantees](https://openreview.net/pdf?id=N7lCDaeNiS) as **Spotlight Publications** from 2023!
-- 2/2024: I will be a panelist at [**AI Industry Week 10-12 April Telenor Arena**](https://aiindustryweek.no/#speakers) talking about AI Cybersecurity Research and Science.   
+#- 2/2024: I will be a panelist at [**AI Industry Week 10-12 April Telenor Arena**](https://aiindustryweek.no/#speakers) talking about AI Cybersecurity Research and Science.   
 - 1/2024: Our paper *[On the Generalization of Stochastic Gradient Descent with Momentum](https://jmlr.org/papers/v25/22-0068.html)* has been accepted to the **Journal of Machine Learning Research**.
 - 1/2024: We will have Multiple Exciting Ph.D. Positions through [Integreat](https://www.integreat.no/) joint with wonderful Computer Scientists, Statisticians, and Mathematicians across Norway!
 - 1/2024: I am the main organizer of [Integreat](https://www.integreat.no/) **Discrepancies Seminar Series**.
@@ -49,7 +50,8 @@ Recent News
 
 Selected Publications
 ======
-<img style="float: left;" src="/images/SGDEM.png" width="320"/>  We have shown it is crucial to establish an appropriate balance between the **optimization error** associated with the empirical risk and the **generalization error** when accelerating SGD with momentum and established generalization error bounds and explicit convergence rates for SGD with momentum under a broad range of hyperparameters including a general step-size rule. For smooth Lipschitz loss functions, we analyze SGD with early momentum (SGDEM) under a broad rangeof step-sizes, and show that it can train machine learning models for multiple epochs with a guarantee for generalization.
+<img style="float: left;" src="/images/SGDEM.png" width="320"/>  We have shown it is crucial to establish an appropriate balance between the **optimization error** associated with the empirical risk and the **generalization error** when accelerating SGD with momentum and established generalization error bounds and explicit convergence rates for SGD with momentum under a broad range of hyperparameters including a general step-size rule. For smooth Lipschitz loss functions, we analyze SGD with early momentum (SGDEM) under a broad range
+of step-sizes, and show that it can train machine learning models for multiple epochs with a guarantee for generalization.
 
 Ali Ramezani-Kebrya, Kimon Antonakopoulos, Volkan Cevher, Ashish Khisti, and Ben Liang, **On the Generalization of Stochastic Gradient Descent with Momentum**, Journal of Machine Learning Research, vol. 25, pp. 1-56, Jan. 2024.  
 [pdf](https://jmlr.org/papers/v25/22-0068.html){: .btn--research} [bib](https://jmlr.org/papers/v25/22-0068.bib){: .btn--research} [arXiv](https://arxiv.org/abs/1809.04564){: .btn--research}
