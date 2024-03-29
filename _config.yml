@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Ali Ramezani-Kebrya"
   avatar           : "ali_press.jpg"
-  bio              : | 
+  bio              : > 
 		     "Associate Professor in CS" 
 		     "PI at Integreat" 
 		     "PI at Visual Intelligence" 
