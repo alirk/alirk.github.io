@@ -18,8 +18,8 @@ My current research is focused on **understanding how the input data distributio
 
 Recent News
 ======
+- 4/2024: I have [**PhD Position in ML**](https://www.jobbnorge.no/en/available-jobs/job/262282/phd-research-fellow-in-machine-learning).
 - 3/2024: I will serve as an Area Chair of NeurIPS 2024. 
-- 2/2024: I have [**Three PhD Positions in ML (Projects 9,4,3)**](https://www.integreat.no/news/join-integreat-apply-now-for-13-phd-positions-and-.html).
 - 2/2024: We have one [postdoc position](https://www.jobbnorge.no/en/available-jobs/job/255679/dstrain-msca-postdoctoral-fellowships-in-computational-and-natural-sciences-18-positions) in "Joint Physics-informed and Data-driven Complex Dynamical System Solvers".
 - 2/2024: Our paper *[Mixed Nash for Robust Federated Learning](https://openreview.net/pdf?id=mqMzerrVOB)* has been accepted to the **Transactions on Machine Learning Research**.
 - 2/2024: The Research Excellence Center [SFI Visual Intelligence](https://www.visual-intelligence.no/) has recognized our work [Federated Learning under Covariate Shifts with Generalization Guarantees](https://openreview.net/pdf?id=N7lCDaeNiS) as **Spotlight Publications** from 2023!
