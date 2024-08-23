@@ -18,6 +18,7 @@ My current research is focused on **understanding how the input data distributio
 
 Recent News
 ======
+- 8/2024: [Integreat](https://www.integreat.no/) is officially launched. 
 - 4/2024: I have [**PhD Position in ML**](https://www.jobbnorge.no/en/available-jobs/job/262282/phd-research-fellow-in-machine-learning).
 - 3/2024: I will serve as an Area Chair of NeurIPS 2024. 
 - 2/2024: We have one [postdoc position](https://www.jobbnorge.no/en/available-jobs/job/255679/dstrain-msca-postdoctoral-fellowships-in-computational-and-natural-sciences-18-positions) in "Joint Physics-informed and Data-driven Complex Dynamical System Solvers".
@@ -100,18 +101,18 @@ Students
 ======
 
 - Supervision at the University of Oslo 
-	- Zhiyuan Wu, Ph.D. in progress, University of Oslo.
-	- Amir Arfan, Ph.D. in progress, University of Oslo.
+	- Sigurd Holmsen, Ph.D. in progress, University of Oslo.
 	- Chau Thi Thuy Tran, Ph.D. in progress, University of Oslo. 
-
+	- Amir Arfan, Ph.D. in progress, University of Oslo.
+	- Zhiyuan Wu, Ph.D. in progress, University of Oslo.
+	
+	- Oskar Høgberg Simensen, summer intern, University of Oslo.
+	- Guri Marie Svenberg, summer intern, University of Oslo.
+	- Karen Stølan Nielsen, summer intern, University of Oslo.
+	
 - Co-supervision at the University of Toronto and EPFL  
 	- Anh Duc Nguyen, undergraduate intern, EPFL.    
 	- Thomas Michaelsen Pethick, Ph.D. in progress, EPFL.
-	- Igor Krawczuk, Ph.D. in progress, EPFL.
-	- Fabian Latorre, Ph.D. in progress, EPFL.
-	- Xiangcheng Cao, master in progress, EPFL.
-	- Seydou Fadel Mamar, master in progress, EPFL.	
-	- Mohammadamin Sharifi, summer intern, EPFL.
 	- Wanyun Xie, MSc KTH,  first job after graduation: Ph.D. at EPFL.
 	- Fartash Faghri, Ph.D. UoT, first job after graduation: research scientist at Apple.
 	- Iman Tabrizian, M.A.Sc. UoT, first job after graduation: full-time engineer at NVIDIA.
@@ -135,6 +136,7 @@ Major Collaborators
 - [Adín Ramírez Rivera](https://www.mn.uio.no/ifi/english/people/aca/adinr/)
 - [Daniel M. Roy](http://danroy.org/)
 - [Jorgen Afseth Sugar](https://www.med.uio.no/imb/personer/vit/jorgels/)
+- [Kristoffer Wickstrøm](https://uit.no/ansatte/kristoffer.k.wickstrom)
 
 
 
