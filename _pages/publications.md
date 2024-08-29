@@ -5,19 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-Robust and Secure Deep Learning   
-======
-Wanyun Xie, Thomas Pethick, Ali Ramezani-Kebrya, and Volkan Cevher, **Mixed Nash for Robust Federated Learning**, Transactions on Machine Learning Research, Feb. 2024.  
-[pdf](https://openreview.net/pdf?id=mqMzerrVOB){: .btn--research} [openreview](https://openreview.net/forum?id=mqMzerrVOB){: .btn--research} 
-
-Ali Ramezani-Kebrya\*, Fanghui Liu\*, Thomas Pethick\*, Grigorios Chrysos, and Volkan Cevher, **Federated Learning under Covariate Shifts with Generalization Guarantees**, Transactions on Machine Learning Research, June 2023.  
-[pdf](https://openreview.net/pdf?id=N7lCDaeNiS){: .btn--research} [code](https://github.com/LIONS-EPFL/Federated_Learning_Covariate_Shift_Code){: .btn--research} [openreview](https://openreview.net/forum?id=N7lCDaeNiS){: .btn--research} 
-
-Ali Ramezani-Kebrya\*, Iman Tabrizian\*, Fartash Faghri, and Petar Popovski, **MixTailor: Mixed Gradient Aggregation for Robust Learning Against Tailored Attacks**, Transactions on Machine Learning Research, Oct. 2022.  
-[pdf](https://openreview.net/pdf?id=tqDhrbKJLS){: .btn--research} [bib](https://www.jmlr.org/tmlr/papers/bib/tqDhrbKJLS.bib){: .btn--research} [code](https://github.com/Tabrizian/mix-tailor){: .btn--research} [arXiv](https://arxiv.org/abs/2207.07941){: .btn--research} [openreview](https://openreview.net/forum?id=tqDhrbKJLS){: .btn--research}  
-
------
-
 Scalable Deep Learning   
 ======
 Ali Ramezani-Kebrya\*, Kimon Antonakopoulos\*, Igor Krawczuk\*, Justin Deschenaux\*, and Volkan Cevher, **Distributed Extra-gradient with Optimal Complexity and Communication Guarantees**, ICLR 2023.  
@@ -28,6 +15,19 @@ Ali Ramezani-Kebrya, Fartash Faghri, Ilya Markov, Vitalii Aksenov, Dan Alistarh,
 
 Fartash Faghri\*, Iman Tabrizian\*, Ilya Markov, Dan Alistarh, Daniel M. Roy, and Ali Ramezani-Kebrya, **Adaptive Gradient Quantization for Data-Parallel SGD**, NeurIPS 2020.  
 [pdf](https://papers.nips.cc/paper/2020/file/20b5e1cf8694af7a3c1ba4a87f073021-Paper.pdf){: .btn--research} [bib](https://scholar.googleusercontent.com/scholar.bib?q=info:xpAwoNIuzxUJ:scholar.google.com/&output=citation&scisdr=CgVA45jvEKCS5Djck8o:AAGBfm0AAAAAY6Xai8rnX4Rz-Zrxs7QCv6ocvm8RxOKV&scisig=AAGBfm0AAAAAY6Xaiy39O8cDh_0XnYOezqMyusWtK5Cu&scisf=4&ct=citation&cd=-1&hl=en){: .btn--research} [code](https://github.com/tabrizian/learning-to-quantize){: .btn--research} [arXiv](https://arxiv.org/abs/2010.12460){: .btn--research}
+
+-----
+
+Robust and Secure Deep Learning   
+======
+Wanyun Xie, Thomas Pethick, Ali Ramezani-Kebrya, and Volkan Cevher, **Mixed Nash for Robust Federated Learning**, Transactions on Machine Learning Research, Feb. 2024.  
+[pdf](https://openreview.net/pdf?id=mqMzerrVOB){: .btn--research} [openreview](https://openreview.net/forum?id=mqMzerrVOB){: .btn--research} 
+
+Ali Ramezani-Kebrya\*, Fanghui Liu\*, Thomas Pethick\*, Grigorios Chrysos, and Volkan Cevher, **Federated Learning under Covariate Shifts with Generalization Guarantees**, Transactions on Machine Learning Research, June 2023.  
+[pdf](https://openreview.net/pdf?id=N7lCDaeNiS){: .btn--research} [code](https://github.com/LIONS-EPFL/Federated_Learning_Covariate_Shift_Code){: .btn--research} [openreview](https://openreview.net/forum?id=N7lCDaeNiS){: .btn--research} 
+
+Ali Ramezani-Kebrya\*, Iman Tabrizian\*, Fartash Faghri, and Petar Popovski, **MixTailor: Mixed Gradient Aggregation for Robust Learning Against Tailored Attacks**, Transactions on Machine Learning Research, Oct. 2022.  
+[pdf](https://openreview.net/pdf?id=tqDhrbKJLS){: .btn--research} [bib](https://www.jmlr.org/tmlr/papers/bib/tqDhrbKJLS.bib){: .btn--research} [code](https://github.com/Tabrizian/mix-tailor){: .btn--research} [arXiv](https://arxiv.org/abs/2207.07941){: .btn--research} [openreview](https://openreview.net/forum?id=tqDhrbKJLS){: .btn--research}  
 
 -----
 
