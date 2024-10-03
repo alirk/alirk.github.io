@@ -7,17 +7,18 @@ redirect_from:
   - /about.html
 ---
 
-I am an Associate Professor (with tenure) in the [Department of Informatics](https://www.mn.uio.no/ifi/english/index.html) at the [University of Oslo (UiO)](https://www.uio.no/english/), a Principal Investigator at the [Norwegian Center for Knowledge-driven Machine Learning (Integreat)](https://www.integreat.no/), and the [SFI Visual Intelligence](https://www.visual-intelligence.no/), and a member of the [European Laboratory for Learning and Intelligent Systems (ELLIS) Society](https://ellis.eu/). I serve as an Area Chair of NeurIPS.
+I am an Associate Professor (with tenure) in the [Department of Informatics](https://www.mn.uio.no/ifi/english/index.html) at the [University of Oslo (UiO)](https://www.uio.no/english/), a Principal Investigator at the [Norwegian Center for Knowledge-driven Machine Learning (Integreat)](https://www.integreat.no/), and the [SFI Visual Intelligence](https://www.visual-intelligence.no/), and a member of the [European Laboratory for Learning and Intelligent Systems (ELLIS) Society](https://ellis.eu/). I serve as an Area Chair of NeurIPS and AISTATS.
 
 
 Before joining UiO, I was a Senior Scientific Collaborator at [EPFL](https://www.epfl.ch/en/), working with [Prof. Volkan Cevher](https://people.epfl.ch/volkan.cevher?lang=en) in [Laboratory for Information and Inference Systems (LIONS)](https://www.epfl.ch/labs/lions/). Before joining LIONS, I was an [NSERC Postdoctoral Fellow](https://www.nserc-crsng.gc.ca/students-etudiants/pd-np/pdf-bp_eng.asp) at the [Vector Institute](https://vectorinstitute.ai/) in Toronto working with [Prof. Daniel M. Roy](http://danroy.org/). I received my Ph.D. from the [University of Toronto](https://www.utoronto.ca/) where I was very fortunate to be advised by [Prof. Ben Liang](https://www.comm.utoronto.ca/~liang/) and [Prof. Min Dong](https://sites.google.com/ontariotechu.net/dong?pli=1). 
 
-My current research is focused on **understanding how the input data distribution is encoded within layers of popular neural networks** and developing **theoretical concepts** and **practical tools** to minimize the statistical risk under resource constraints and realistic settings referring to **statistical and system** characteristics contrary to an ideal learning setting. I am interested in a broad range of applications including but not limited to **neuroscience**, **autonomous navigation and driving**, **designing next-generation networks**, and **medical data**.
+My current research is focused on **understanding how the input data distribution is encoded within layers of popular neural networks** and developing **theoretical concepts** and **practical tools** to minimize the statistical risk under resource constraints and realistic settings referring to **statistical and system** characteristics contrary to an ideal learning setting. I am interested in a broad range of applications including but not limited to **neuroscience**, **marine data**,  and **emotion recognition**.
 
 -----
 
 Recent News
 ======
+- 10/2025: I will serve as an Area Chair of AISTATS 2025. 
 - 8/2024: [Integreat](https://www.integreat.no/) is officially launched. 
 - 4/2024: I have [**PhD Position in ML**](https://www.jobbnorge.no/en/available-jobs/job/262282/phd-research-fellow-in-machine-learning).
 - 3/2024: I will serve as an Area Chair of NeurIPS 2024. 
@@ -98,16 +99,17 @@ Fartash Faghri\*, Iman Tabrizian\*, Ilya Markov, Dan Alistarh, Daniel M. Roy, an
 
 Students 
 ======
-
-- Supervision at the University of Oslo 
-	- Sigurd Holmsen, Ph.D. in progress, University of Oslo.
-	- Chau Thi Thuy Tran, Ph.D. in progress, University of Oslo. 
-	- Amir Arfan, Ph.D. in progress, University of Oslo.
-	- Zhiyuan Wu, Ph.D. in progress, University of Oslo.
+- Sigurd Holmsen, Ph.D. in progress, University of Oslo.
+- Daniel Kaiser, Ph.D. in progress, University of Tromsø.
+- Chau Thi Thuy Tran, Ph.D. in progress, University of Oslo. 
+- Amir Arfan, Ph.D. in progress, University of Oslo.
+- Zhiyuan Wu, Ph.D. in progress, University of Oslo.
 	
-	- Oskar Høgberg Simensen, summer intern, University of Oslo.
-	- Guri Marie Svenberg, summer intern, University of Oslo.
-	- Karen Stølan Nielsen, summer intern, University of Oslo.
+- Frida Marie Engøy Westby, MS in progress, University of Oslo.
+	
+- Oskar Høgberg Simensen, summer intern, University of Oslo.
+- Guri Marie Svenberg, summer intern, University of Oslo.
+- Karen Stølan Nielsen, summer intern, University of Oslo.
 	
 - Co-supervision at the University of Toronto and EPFL  
 	- Anh Duc Nguyen, undergraduate intern, EPFL.    
