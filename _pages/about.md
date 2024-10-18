@@ -18,7 +18,7 @@ My current research is focused on **understanding how the input data distributio
 
 Recent News
 ======
-- 10/2025: I will serve as an Area Chair of AISTATS 2025. 
+- 10/2024: I will serve as an Area Chair of AISTATS 2025. 
 - 8/2024: [Integreat](https://www.integreat.no/) is officially launched. 
 - 4/2024: I have [**PhD Position in ML**](https://www.jobbnorge.no/en/available-jobs/job/262282/phd-research-fellow-in-machine-learning).
 - 3/2024: I will serve as an Area Chair of NeurIPS 2024. 
