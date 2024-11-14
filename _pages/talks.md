@@ -4,14 +4,22 @@ title: "Talks"
 permalink: /talks/
 author_profile: true
 ---
-`Learning under Resource Constraints in Real World `
+`Machine Learning in Real World`
+Host: University of Victoria, Canada, Dec. 2024.
+
+
+`Machine Learning in Real World`
+Host: Oslo Centre for Biostatistics and Epidemiology, Norway, Nov. 2024.
+
+
+`Learning under Resource Constraints in Real World`
 Host: University of Toronto, Canada, Oct. 2023.
 
 
-`Learning under Resource Constraints in Real World `
+`Learning under Resource Constraints in Real World`
 Host: University of Copenhagen, Denmark, Sep. 2023.
 
-`Learning under Resource Constraints in Real World `
+`Learning under Resource Constraints in Real World`
 Host: Norwegian Center for Knowledge-driven Machine Learning (Integreat), Norway, Sep. 2023.
 
 `Scalable and Robust Deep Learning`

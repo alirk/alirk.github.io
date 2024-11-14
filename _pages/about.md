@@ -7,17 +7,17 @@ redirect_from:
   - /about.html
 ---
 
-I am an Associate Professor (with tenure) in the [Department of Informatics](https://www.mn.uio.no/ifi/english/index.html) at the [University of Oslo (UiO)](https://www.uio.no/english/), a Principal Investigator at the [Norwegian Center for Knowledge-driven Machine Learning (Integreat)](https://www.integreat.no/), and the [SFI Visual Intelligence](https://www.visual-intelligence.no/), and a member of the [European Laboratory for Learning and Intelligent Systems (ELLIS) Society](https://ellis.eu/). I serve as an Area Chair of NeurIPS and AISTATS.
-
+I am an Associate Professor (with tenure) in the [Department of Informatics](https://www.mn.uio.no/ifi/english/index.html) at the [University of Oslo (UiO)](https://www.uio.no/english/), a Principal Investigator at the [Norwegian Center for Knowledge-driven Machine Learning (Integreat)](https://www.integreat.no/), and the [SFI Visual Intelligence](https://www.visual-intelligence.no/), and a member of the [European Laboratory for Learning and Intelligent Systems (ELLIS) Society](https://ellis.eu/). I serve as an Area Chair of NeurIPS and AISTATS and Action Editor for [Transactions on Machine Learning Research](https://jmlr.org/tmlr/index.html).
 
 Before joining UiO, I was a Senior Scientific Collaborator at [EPFL](https://www.epfl.ch/en/), working with [Prof. Volkan Cevher](https://people.epfl.ch/volkan.cevher?lang=en) in [Laboratory for Information and Inference Systems (LIONS)](https://www.epfl.ch/labs/lions/). Before joining LIONS, I was an [NSERC Postdoctoral Fellow](https://www.nserc-crsng.gc.ca/students-etudiants/pd-np/pdf-bp_eng.asp) at the [Vector Institute](https://vectorinstitute.ai/) in Toronto working with [Prof. Daniel M. Roy](http://danroy.org/). I received my Ph.D. from the [University of Toronto](https://www.utoronto.ca/) where I was very fortunate to be advised by [Prof. Ben Liang](https://www.comm.utoronto.ca/~liang/) and [Prof. Min Dong](https://sites.google.com/ontariotechu.net/dong?pli=1). 
 
-My current research is focused on **understanding how the input data distribution is encoded within layers of popular neural networks** and developing **theoretical concepts** and **practical tools** to minimize the statistical risk under resource constraints and realistic settings referring to **statistical and system** characteristics contrary to an ideal learning setting. I am interested in a broad range of applications including but not limited to **neuroscience**, **marine data**,  and **emotion recognition**.
+My current research is focused on **understanding how the input data distribution is encoded within layers of popular neural networks** and developing **theoretical concepts** and **practical tools** to minimize the statistical risk under resource constraints and realistic settings referring to **statistical and system** characteristics contrary to an ideal learning setting. I am interested in a broad range of applications including but not limited to **emotion recognition**, **marine data**,  and **neuroscience**.
 
 -----
 
 Recent News
-======
+======  
+- 11/2024: I will serve as an Action Editor for [Transactions on Machine Learning Research](https://jmlr.org/tmlr/index.html).
 - 10/2024: I will serve as an Area Chair of AISTATS 2025. 
 - 8/2024: [Integreat](https://www.integreat.no/) is officially launched. 
 - 4/2024: I have [**PhD Position in ML**](https://www.jobbnorge.no/en/available-jobs/job/262282/phd-research-fellow-in-machine-learning).
@@ -124,19 +124,14 @@ Major Collaborators
 ======
 
 - [Dan Alistarh](https://people.csail.mit.edu/alistarh/)
-- [Andreas Austeng](https://www.mn.uio.no/ifi/personer/vit/andrea/)
-- [Mohammad Hossein Anisi](https://www.essex.ac.uk/people/ANISI58203/Hossein-Anisi)
 - [Volkan Cevher](https://people.epfl.ch/volkan.cevher?lang=en)
 - [Arnoldo Frigessi](https://www.med.uio.no/imb/english/people/aca/frigessi/)
 - [Carsten Griwodz](https://www.mn.uio.no/ifi/english/people/aca/griff/) 
 - [Robert Jenssen](https://en.uit.no/ansatte/person?p_document_id=41060)
 - [Ole Christian Lingjærde](https://www.mn.uio.no/ifi/personer/vit/ole/)
-- [Sven Peter Näsholm](https://www.mn.uio.no/ifi/english/people/aca/svenpn/)
 - [Benjamin Ricaud](https://en.uit.no/ansatte/person?p_document_id=741975)
 - [Sylvia Richardson](https://www.mrc-bsu.cam.ac.uk/people/in-alphabetical-order/n-to-s/sylvia-richardson/)
-- [Adín Ramírez Rivera](https://www.mn.uio.no/ifi/english/people/aca/adinr/)
 - [Daniel M. Roy](http://danroy.org/)
-- [Jorgen Afseth Sugar](https://www.med.uio.no/imb/personer/vit/jorgels/)
 - [Kristoffer Wickstrøm](https://uit.no/ansatte/kristoffer.k.wickstrom)
 
 
