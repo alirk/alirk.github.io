@@ -104,7 +104,9 @@ Students
 - Chau Thi Thuy Tran, Ph.D. in progress, University of Oslo. 
 - Amir Arfan, Ph.D. in progress, University of Oslo.
 - Zhiyuan Wu, Ph.D. in progress, University of Oslo.
-	
+
+- Trude Halvorsen, MS in progress, University of Oslo.	
+- Kjetil Karstensen Indrehus, MS in progress, University of Oslo.
 - Frida Marie Engøy Westby, MS in progress, University of Oslo.
 	
 - Oskar Høgberg Simensen, summer intern, University of Oslo.
