@@ -17,7 +17,7 @@ My current research is focused on **understanding how the input data distributio
 
 Recent News
 ======  
-- 1/2024: I have Postdoc Position (3 year contract co-funded by EU under MSCA) [**Theme DSB4 and  DSB3**](https://www.uio.no/dscience/english/dstrain/research-areas2025/informatics/machine-learning-signal-processing-and-image-analy/).
+- 1/2024: I have open Postdoc position (3 year contract co-funded by EU under MSCA) [**Check Themes DSB4 and DSB3 here and email me if interested!**](https://www.uio.no/dscience/english/dstrain/research-areas2025/informatics/machine-learning-signal-processing-and-image-analy/).
 - 11/2024: I will serve as an Action Editor for [Transactions on Machine Learning Research](https://jmlr.org/tmlr/index.html).
 - 10/2024: I will serve as an Area Chair of AISTATS 2025. 
 - 8/2024: [Integreat](https://www.integreat.no/) is officially launched. 
