@@ -102,7 +102,7 @@ Students
 ======
 - Sigurd Holmsen, Ph.D. in progress, University of Oslo.
 - Daniel Kaiser, Ph.D. in progress, University of Tromsø.
-- Chau Thi Thuy Tran, Ph.D. in progress, University of Oslo. 
+- Johan Mylius Kroken, Ph.D. in progress, University of Tromsø. 
 - Amir Arfan, Ph.D. in progress, University of Oslo.
 - Zhiyuan Wu, Ph.D. in progress, University of Oslo.
 
@@ -112,7 +112,8 @@ Students
 - Issa Rashdan, MS in progress, University of Oslo.
 - Arangan Subramaniam, MS in progress, University of Oslo.
 - Preben Nicholai Castberg, MS in progress, University of Oslo.
-	
+- Truls de Lange, MS in progress, University of Oslo.
+
 - Oskar Høgberg Simensen, summer intern, University of Oslo.
 - Guri Marie Svenberg, summer intern, University of Oslo.
 - Karen Stølan Nielsen, summer intern, University of Oslo.
