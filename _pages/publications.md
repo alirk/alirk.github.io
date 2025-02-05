@@ -20,7 +20,7 @@ Fartash Faghri\*, Iman Tabrizian\*, Ilya Markov, Dan Alistarh, Daniel M. Roy, an
 
 Robust and Secure Deep Learning   
 ======
-Zhiyuan Wu\*, Changkyu Choi\*, Xiangcheng Cao, Volkan Cevher, and Ali Ramezani-Kebrya, ** Addressing Label Shift in Distributed Learning via Entropy Regularization**, ICLR 2025.  
+Zhiyuan Wu\*, Changkyu Choi\*, Xiangcheng Cao, Volkan Cevher, and Ali Ramezani-Kebrya, **Addressing Label Shift in Distributed Learning via Entropy Regularization**, ICLR 2025.  
 [openreview](https://openreview.net/forum?id=kuYxecnlv2){: .btn--research} 
 
 Wanyun Xie, Thomas Pethick, Ali Ramezani-Kebrya, and Volkan Cevher, **Mixed Nash for Robust Federated Learning**, Transactions on Machine Learning Research, Feb. 2024.  
