@@ -53,6 +53,12 @@ Recent News
 
 Selected Publications
 ======
+<img style="float: left;" src="/images/LS.png" width="350"/>  We have introduced a method to **minimize overall true risk** in distributed learning environments under **label shift** conditions. We improve test-to-train density ratio estimation through Shannon entropy-based regularization and **achieve a 20% improvement in average test error** compared to baselines in imbalanced settings, approaching upper-bound performance.
+
+Zhiyuan Wu\*, Changkyu Choi\*, Xiangcheng Cao, Volkan Cevher, and Ali Ramezani-Kebrya, **Addressing Label Shift in Distributed Learning via Entropy Regularization**, ICLR 2025.  
+[openreview](https://openreview.net/forum?id=kuYxecnlv2){: .btn--research} 
+
+
 <img style="float: left;" src="/images/SGDEM.png" width="320"/>  We have shown it is crucial to establish an appropriate balance between the **optimization error** associated with the empirical risk and the **generalization error** when accelerating SGD with momentum and established generalization error bounds and explicit convergence rates for SGD with momentum under a broad range of hyperparameters including a general step-size rule. For smooth Lipschitz loss functions, we analyze SGD with early momentum (SGDEM) under a broad range
 of step-sizes, and show that it can train machine learning models for multiple epochs with a guarantee for generalization.
 

@@ -13,7 +13,7 @@ UiO, Oslo, Norway, Main Instructor
 
 - Introduction to Artificial Intelligence and Machine Learning, Fall 2024.
 
-- Deep Learning for Image Analysis, Spring 2024.
+- Deep Learning for Image Analysis, Spring 2024, 2025.
 
 ETH, Zurich, Switzerland, Contributor to Course Development
 
