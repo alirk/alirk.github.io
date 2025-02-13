@@ -53,7 +53,7 @@ Recent News
 
 Selected Publications
 ======
-<img style="float: left;" src="/images/LS.png" width="320"/>  We have introduced a method to **minimize overall true risk** in distributed settings under inter-node and intra-node **label shifts**. We improve test-to-train density ratio estimation through Shannon entropy-based regularization. Our method encourages smoother and more reliable predictions that account for inherent uncertainty in the data with a better approximation of class conditional probabilities, and **achieves up to 20% improvement in average test error** in imbalanced settings approaching the upper-bound.
+<img style="float: left;" src="/images/LS.png" width="320"/>  We have introduced a method to **minimize overall true risk** in distributed settings under inter-node and intra-node **label shifts**. We improve test-to-train density ratio estimation through Shannon entropy-based regularization. Our method encourages smoother and more reliable predictions that account for inherent uncertainty in the data with a better approximation of class conditional probabilities, and **achieves up to 20% improvement in average test error** in imbalanced settings approaching an upper bound.
 
 Zhiyuan Wu\*, Changkyu Choi\*, Xiangcheng Cao, Volkan Cevher, and Ali Ramezani-Kebrya, **Addressing Label Shift in Distributed Learning via Entropy Regularization**, ICLR 2025.  
 [openreview](https://openreview.net/forum?id=kuYxecnlv2){: .btn--research} [arXiv](https://arxiv.org/abs/2502.02544){: .btn--research}
