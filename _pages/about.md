@@ -58,7 +58,8 @@ Selected Publications
 <img style="float: left;" src="/images/LayerQuant.png" width="320"/> We have developed a general **layer-wise quantization** framework taking into account the statistical heterogeneity across layers and an efficient solver for distributed variational inequalities. We establish tight variance and code-length bounds for layer-wise quantization, which generalize the bounds for global quantization frameworks.  We empirically achieve up to a **150% speedup** over the baselines in end-to-end training time for training Wasserstein GAN on **12+ GPUs**.
 
 
-Anh Duc Nguyen, Ilia Markov, Frank Zhengqing Wu, Ali Ramezani-Kebrya, Kimon Antonakopoulos, Dan Alistarh, and Volkan Cevher ** Layer-wise Quantization for Quantized Optimistic Dual Averaging**, ICML 2025. [arXiv](https://arxiv.org/abs/2505.14371){: .btn--research}
+Anh Duc Nguyen, Ilia Markov, Frank Zhengqing Wu, Ali Ramezani-Kebrya, Kimon Antonakopoulos, Dan Alistarh, and Volkan Cevher, **Layer-wise Quantization for Quantized Optimistic Dual Averaging**, ICML 2025. 
+[arXiv](https://arxiv.org/abs/2505.14371){: .btn--research}
 
 <img style="float: left;" src="/images/LS.png" width="320"/>  We have introduced a method to **minimize overall true risk** in distributed settings under inter-node and intra-node **label shifts**. We improve test-to-train density ratio estimation through Shannon entropy-based regularization. Our method encourages smoother and more reliable predictions that account for inherent uncertainty in the data with a better approximation of class conditional probabilities, and **achieves up to 20% improvement in average test error** in imbalanced settings approaching an upper bound.
 

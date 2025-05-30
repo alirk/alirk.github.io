@@ -5,9 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
-Scalable Deep Learning   
+Efficient and Scalable Deep Learning   
 ======
-Anh Duc Nguyen, Ilia Markov, Frank Zhengqing Wu, Ali Ramezani-Kebrya, Kimon Antonakopoulos, Dan Alistarh, and Volkan Cevher ** Layer-wise Quantization for Quantized Optimistic Dual Averaging**, ICML 2025. [arXiv](https://arxiv.org/abs/2505.14371){: .btn--research}
+Anh Duc Nguyen, Ilia Markov, Frank Zhengqing Wu, Ali Ramezani-Kebrya, Kimon Antonakopoulos, Dan Alistarh, and Volkan Cevher, **Layer-wise Quantization for Quantized Optimistic Dual Averaging**, ICML 2025. 
+[arXiv](https://arxiv.org/abs/2505.14371){: .btn--research}
 
 Ali Ramezani-Kebrya\*, Kimon Antonakopoulos\*, Igor Krawczuk\*, Justin Deschenaux\*, and Volkan Cevher, **Distributed Extra-gradient with Optimal Complexity and Communication Guarantees**, ICLR 2023.  
 [pdf](https://openreview.net/pdf?id=b3itJyarLM0){: .btn--research} [bib](https://scholar.googleusercontent.com/scholar.bib?q=info:0Rc5SDH6BLEJ:scholar.google.com/&output=citation&scisdr=Cpu_FFPiEKCS49Q_XLg:AJ9-iYsAAAAAZEk5RLiokHqP3Zwtjs3yxY4tW3g&scisig=AJ9-iYsAAAAAZEk5RPim2bqJoOMe3WMWc15niVM&scisf=4&ct=citation&cd=-1&hl=en){: .btn--research} [code](https://github.com/LIONS-EPFL/QGENX){: .btn--research} [openreview](https://openreview.net/forum?id=b3itJyarLM0){: .btn--research} 
