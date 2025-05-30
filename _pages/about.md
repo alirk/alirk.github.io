@@ -30,7 +30,8 @@ Recent News
 - 2/2024: Our paper *[Mixed Nash for Robust Federated Learning](https://openreview.net/pdf?id=mqMzerrVOB)* has been accepted to the **Transactions on Machine Learning Research**.
 - 2/2024: The Research Excellence Center [SFI Visual Intelligence](https://www.visual-intelligence.no/) has recognized our work [Federated Learning under Covariate Shifts with Generalization Guarantees](https://openreview.net/pdf?id=N7lCDaeNiS) as **Spotlight Publications** from 2023!   
 - 1/2024: Our paper *[On the Generalization of Stochastic Gradient Descent with Momentum](https://jmlr.org/papers/v25/22-0068.html)* has been accepted to the **Journal of Machine Learning Research**.
-<!-- - 1/2024: We will have Multiple Exciting Ph.D. Positions through [Integreat](https://www.integreat.no/) joint with wonderful Computer Scientists, Statisticians, and Mathematicians across Norway!
+<!-- 
+- 1/2024: We will have Multiple Exciting Ph.D. Positions through [Integreat](https://www.integreat.no/) joint with wonderful Computer Scientists, Statisticians, and Mathematicians across Norway!
 - 1/2024: I am the main organizer of [Integreat](https://www.integreat.no/) **Discrepancies Seminar Series**.
 - 1/2024: I am a Program Chair at the [Northern Lights Deep Learning Conference (NLDL 2024)](https://www.nldl.org/).
 - 12/2024: Our new PhD research fellow  Amir Arfan has started the PhD through SUURPh programme. Welcome Amir!
@@ -49,8 +50,8 @@ Recent News
 - 8/2022: I gave a talk titled `How Did DL Dominate Today’s ML? What Challenges and Limitations Remain?` at the University of Oslo.
 - 6/2022: I gave a talk titled `Scalable ML: Communication-efficiency, Security, and Architecture Design` at the University of Edinburgh.
 - 2/2022: I gave a talk titled `Scalable ML: Communication-efficiency, Security, and Architecture Design` at the University of Liverpool.
-- 09/2021: Our paper *[Subquadratic Overparameterization for Shallow Neural Networks](https://proceedings.neurips.cc/paper/2021/hash/5d9e4a04afb9f3608ccc76c1ffa7573e-Abstract.html)* has been accepted to **NeurIPS 2021**.-->
-
+- 09/2021: Our paper *[Subquadratic Overparameterization for Shallow Neural Networks](https://proceedings.neurips.cc/paper/2021/hash/5d9e4a04afb9f3608ccc76c1ffa7573e-Abstract.html)* has been accepted to **NeurIPS 2021**.
+-->
 -----
 
 Selected Publications
