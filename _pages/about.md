@@ -17,10 +17,13 @@ My current research is focused on **understanding how the input data distributio
 
 Recent News
 ======  
+- 7/2025: **I am hiring for two exciting positions:** [**PhD**](https://www.jobbnorge.no/en/available-jobs/job/283103/phd-research-fellow-in-machine-learning) and [**Postdoc**](https://www.jobbnorge.no/en/available-jobs/job/283109/postdoctoral-research-fellow-in-machine-learning)
 - 5/2025: Our paper *[Quantized Optimistic Dual Averaging with Adaptive Layer-wise Compression](https://arxiv.org/abs/2505.14371)* has been accepted to **ICML 2025**.
 - 4/2025: I have received a [**FRIPRO Grant for Early Career Scientists**](https://www.integreat.no/news/two-new-integreat-pis-awarded-fripro-grants-ingrid.html) for project **Machine Learning in Real World (MLReal)**.
 - 1/2025: Our paper *[Addressing Label Shift in Distributed Learning via Entropy Regularization](https://openreview.net/forum?id=kuYxecnlv2)* has been accepted to **ICLR 2025**.
+{% comment %}
 - 1/2025: I have open Postdoc positions (3 year contract co-funded by EU under MSCA) [**Check Themes DSB4 and DSB3 here and email me if interested!**](https://www.uio.no/dscience/english/dstrain/research-areas2025/informatics/machine-learning-signal-processing-and-image-analy/)
+{% endcomment %}
 - 11/2024: I will serve as an Action Editor for [Transactions on Machine Learning Research](https://jmlr.org/tmlr/index.html).
 - 10/2024: I will serve as an Area Chair of AISTATS 2025. 
 - 8/2024: [Integreat](https://www.integreat.no/) is officially launched. 
@@ -47,7 +50,7 @@ Recent News
 - 1/2023: I joined the Department of Informatics at the University of Oslo!
 - 12/2022: I gave a talk titled `Randomization Improves Deep Learning Security` at the Annual Workshop of the VILLUM Investigator Grant at Aalborg University. 
 - 10/2022: Our paper *[MixTailor: Mixed Gradient Aggregation for Robust Learning Against Tailored Attacks](https://openreview.net/pdf?id=tqDhrbKJLS)* has been published in **Transactions on Machine Learning Research**. 
-- 8/2022: I gave a talk titled `How Did DL Dominate Today’s ML? What Challenges and Limitations Remain?` at the University of Oslo.
+- 8/2022: I gave a talk titled `How Did DL Dominate Today’s ML? What Challenges and Limitations Remain? at the University of Oslo.
 - 6/2022: I gave a talk titled `Scalable ML: Communication-efficiency, Security, and Architecture Design` at the University of Edinburgh.
 - 2/2022: I gave a talk titled `Scalable ML: Communication-efficiency, Security, and Architecture Design` at the University of Liverpool.
 - 09/2021: Our paper *[Subquadratic Overparameterization for Shallow Neural Networks](https://proceedings.neurips.cc/paper/2021/hash/5d9e4a04afb9f3608ccc76c1ffa7573e-Abstract.html)* has been accepted to **NeurIPS 2021**.
