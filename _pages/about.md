@@ -17,6 +17,7 @@ My current research is focused on **understanding how the input data distributio
 
 Recent News
 ======  
+- 8/2025 Adrian Duric has started his PhD at UiO. Welcome Adrian! 
 - 7/2025: **I am hiring for two exciting positions:** [**PhD**](https://www.jobbnorge.no/en/available-jobs/job/283103/phd-research-fellow-in-machine-learning) and [**Postdoc**](https://www.jobbnorge.no/en/available-jobs/job/283109/postdoctoral-research-fellow-in-machine-learning)
 - 5/2025: Our paper *[Quantized Optimistic Dual Averaging with Adaptive Layer-wise Compression](https://arxiv.org/abs/2505.14371)* has been accepted to **ICML 2025**.
 - 4/2025: I have received a [**FRIPRO Grant for Early Career Scientists**](https://www.integreat.no/news/two-new-integreat-pis-awarded-fripro-grants-ingrid.html) for project **Machine Learning in Real World (MLReal)**.
@@ -119,20 +120,21 @@ Fartash Faghri\*, Iman Tabrizian\*, Ilya Markov, Dan Alistarh, Daniel M. Roy, an
 
 Students 
 ======
+- Adrian Duric, Ph.D. in progress, University of Oslo.
 - Sigurd Holmsen, Ph.D. in progress, University of Oslo.
 - Daniel Kaiser, Ph.D. in progress, University of Tromsø.
 - Johan Mylius Kroken, Ph.D. in progress, University of Tromsø. 
-- Amir Arfan, Ph.D. in progress, University of Oslo.
 - Zhiyuan Wu, Ph.D. in progress, University of Oslo.
 
-- Frida Marie Engøy Westby, MS in progress, University of Oslo.
 - Trude Halvorsen, MS in progress, University of Oslo.	
 - Kjetil Karstensen Indrehus, MS in progress, University of Oslo.
 - Issa Rashdan, MS in progress, University of Oslo.
 - Arangan Subramaniam, MS in progress, University of Oslo.
 - Preben Nicholai Castberg, MS in progress, University of Oslo.
-- Truls de Lange, MS in progress, University of Oslo.
+- Frida Marie Engøy Westby, MS in progress, University of Oslo.
 
+- Røskva Bjørgfinsdóttir, summer intern, University of Oslo.
+- Brage Eilertsen, summer intern, University of Oslo.
 - Oskar Høgberg Simensen, summer intern, University of Oslo.
 - Guri Marie Svenberg, summer intern, University of Oslo.
 - Karen Stølan Nielsen, summer intern, University of Oslo.
