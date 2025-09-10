@@ -128,7 +128,6 @@ Students
 
 - Trude Halvorsen, MS in progress, University of Oslo.	
 - Kjetil Karstensen Indrehus, MS in progress, University of Oslo.
-- Issa Rashdan, MS in progress, University of Oslo.
 - Arangan Subramaniam, MS in progress, University of Oslo.
 - Preben Nicholai Castberg, MS in progress, University of Oslo.
 - Frida Marie Engøy Westby, MS in progress, University of Oslo.
