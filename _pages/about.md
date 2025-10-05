@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Associate Professor (with tenure) in the [Department of Informatics](https://www.mn.uio.no/ifi/english/index.html) at the [University of Oslo (UiO)](https://www.uio.no/english/), a Principal Investigator at the [Norwegian Center for Knowledge-driven Machine Learning (Integreat)](https://www.integreat.no/), and the [SFI Visual Intelligence](https://www.visual-intelligence.no/), and a member of the [European Laboratory for Learning and Intelligent Systems (ELLIS) Society](https://ellis.eu/). I serve as an Area Chair of NeurIPS and AISTATS and Action Editor for [Transactions on Machine Learning Research](https://jmlr.org/tmlr/index.html). I have received [FRIPRO Grant for Early Career Scientists](https://www.integreat.no/news/two-new-integreat-pis-awarded-fripro-grants-ingrid.html). 
+I am an Associate Professor (with tenure) in the [Department of Informatics](https://www.mn.uio.no/ifi/english/index.html) at the [University of Oslo (UiO)](https://www.uio.no/english/), a Research Theme Leader at the [Norwegian Center for Knowledge-driven Machine Learning (Integreat)](https://www.integreat.no/), a Principal Investigator at TRUST – The Norwegian Centre for Trustworthy AI, and the [SFI Visual Intelligence](https://www.visual-intelligence.no/), and a member of the [European Laboratory for Learning and Intelligent Systems (ELLIS) Society](https://ellis.eu/). I serve as an Area Chair of NeurIPS and AISTATS and Action Editor for [Transactions on Machine Learning Research](https://jmlr.org/tmlr/index.html). I have received [FRIPRO Grant for Early Career Scientists](https://www.integreat.no/news/two-new-integreat-pis-awarded-fripro-grants-ingrid.html). 
 
 Before joining UiO, I was a Senior Scientific Collaborator at [EPFL](https://www.epfl.ch/en/), working with [Prof. Volkan Cevher](https://people.epfl.ch/volkan.cevher?lang=en) in [Laboratory for Information and Inference Systems (LIONS)](https://www.epfl.ch/labs/lions/). Before joining LIONS, I was an [NSERC Postdoctoral Fellow](https://www.nserc-crsng.gc.ca/students-etudiants/pd-np/pdf-bp_eng.asp) at the [Vector Institute](https://vectorinstitute.ai/) in Toronto working with [Prof. Daniel M. Roy](http://danroy.org/). I received my Ph.D. from the [University of Toronto](https://www.utoronto.ca/) where I was very fortunate to be advised by [Prof. Ben Liang](https://www.comm.utoronto.ca/~liang/) and [Prof. Min Dong](https://sites.google.com/ontariotechu.net/dong?pli=1). 
 
@@ -17,6 +17,7 @@ My current research is focused on **understanding how the input data distributio
 
 Recent News
 ======  
+- 10/2025 Ali Ramezani-Kebrya will be a Principal Investigator at TRUST – The Norwegian Centre for Trustworthy AI! 
 - 8/2025 Adrian Duric has started his PhD at UiO. Welcome Adrian! 
 - 7/2025: **I am hiring for two exciting positions:** [**PhD**](https://www.jobbnorge.no/en/available-jobs/job/283103/phd-research-fellow-in-machine-learning) and [**Postdoc**](https://www.jobbnorge.no/en/available-jobs/job/283109/postdoctoral-research-fellow-in-machine-learning)
 - 5/2025: Our paper *[Quantized Optimistic Dual Averaging with Adaptive Layer-wise Compression](https://arxiv.org/abs/2505.14371)* has been accepted to **ICML 2025**.
