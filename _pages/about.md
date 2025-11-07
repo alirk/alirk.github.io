@@ -17,6 +17,7 @@ My current research is focused on **understanding how the input data distributio
 
 Recent News
 ======  
+- 11/2025 Tobias Müller has started his PhD at UiO. Welcome Tobias!
 - 10/2025 Ali Ramezani-Kebrya will be a Principal Investigator at TRUST – The Norwegian Centre for Trustworthy AI! 
 - 8/2025 Adrian Duric has started his PhD at UiO. Welcome Adrian! 
 - 7/2025: **I am hiring for two exciting positions:** [**PhD**](https://www.jobbnorge.no/en/available-jobs/job/283103/phd-research-fellow-in-machine-learning) and [**Postdoc**](https://www.jobbnorge.no/en/available-jobs/job/283109/postdoctoral-research-fellow-in-machine-learning)
@@ -121,6 +122,7 @@ Fartash Faghri\*, Iman Tabrizian\*, Ilya Markov, Dan Alistarh, Daniel M. Roy, an
 
 Students 
 ======
+- Tobias Müller, Ph.D. in progress, University of Oslo.
 - Adrian Duric, Ph.D. in progress, University of Oslo.
 - Sigurd Holmsen, Ph.D. in progress, University of Oslo.
 - Daniel Kaiser, Ph.D. in progress, University of Tromsø.
