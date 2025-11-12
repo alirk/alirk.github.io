@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-Efficient and Scalable Deep Learning   
+Deep Learning   
 ======
 Anh Duc Nguyen, Ilia Markov, Frank Zhengqing Wu, Ali Ramezani-Kebrya, Kimon Antonakopoulos, Dan Alistarh, and Volkan Cevher, **Layer-wise Quantization for Quantized Optimistic Dual Averaging**, ICML 2025. 
 [arXiv](https://arxiv.org/abs/2505.14371){: .btn--research}
@@ -21,8 +21,11 @@ Fartash Faghri\*, Iman Tabrizian\*, Ilya Markov, Dan Alistarh, Daniel M. Roy, an
 
 -----
 
-Robust and Secure Deep Learning   
+Trustworthy AI    
 ======
+Brage Eilertsen, Røskva Bjørgfinsdóttir, Francielle Vargas, and Ali Ramezani-Kebrya, **Aligning Attention with Human Rationales for Self-Explaining Hate Speech Detection**, AAAI 2026.  
+[pdf](https://openreview.net/pdf?id=GGhmNxzOp2){: .btn--research} [arXiv](https://arxiv.org/abs/2511.07065){: .btn--research}
+
 Zhiyuan Wu\*, Changkyu Choi\*, Xiangcheng Cao, Volkan Cevher, and Ali Ramezani-Kebrya, **Addressing Label Shift in Distributed Learning via Entropy Regularization**, ICLR 2025.  
 [pdf](https://openreview.net/pdf?id=kuYxecnlv2){: .btn--research} [code](https://github.com/zhiyuan-11/VRLS_main/tree/main){: .btn--research} [openreview](https://openreview.net/forum?id=kuYxecnlv2){: .btn--research} [arXiv](https://arxiv.org/abs/2502.02544){: .btn--research}
 
@@ -37,7 +40,7 @@ Ali Ramezani-Kebrya\*, Iman Tabrizian\*, Fartash Faghri, and Petar Popovski, **M
 
 -----
 
-Understanding Deep Learning 
+ML Theory 
 ======
 Ali Ramezani-Kebrya, Kimon Antonakopoulos, Volkan Cevher, Ashish Khisti, and Ben Liang, **On the Generalization of Stochastic Gradient Descent with Momentum**, Journal of Machine Learning Research, vol. 25, pp. 1-56, Jan. 2024.  
 [pdf](https://jmlr.org/papers/v25/22-0068.html){: .btn--research} [bib](https://jmlr.org/papers/v25/22-0068.bib){: .btn--research} [arXiv](https://arxiv.org/abs/1809.04564){: .btn--research} 
@@ -47,7 +50,7 @@ Chaehwan Song\*, Ali Ramezani-Kebrya\*, Thomas Pethick, Armin Eftekhari, and Vol
 
 -----
 
-Resource Optimization and Interference Management in Networks 
+Optimization and Networks 
 ======
 
 Ali Ramezani-Kebrya, Ben Liang, Min Dong, and Gary Boudreau, **Robust Design of Multi-Cell D2D Communication under Partial CSI**,  IEEE Internet of Things Journal, Feb. 2022.  
@@ -72,12 +75,6 @@ Ali Ramezani-Kebrya, Min Dong, Ben Liang, Gary Boudreau, and S. Hossein Seyedmeh
 
 Ali Ramezani-Kebrya, Min Dong, Ben Liang, Gary Boudreau, and Ronald Casselman, **Optimal Cooperative Relay Beamforming for Interference Minimization**, in IEEE ICC 2015.  
 [pdf](https://www.comm.utoronto.ca/~liang/publications/ICC2015.pdf){: .btn--research} [bib](https://ieeexplore.ieee.org/document/7248700){: .btn--research} 
-
-
------
-
-Parameter Learning 
-======
 
 
 Ali Ramezani-Kebrya, Il-Min Kim, Dong In Kim, Francois Chan, and Robert Inkol, **Likelihood-Based Modulation Classification for Multiple-Antenna Receiver**, IEEE Transactions on Communications, vol. 61, pp. 3816-3829, Sep. 2013.  

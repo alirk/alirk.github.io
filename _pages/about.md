@@ -17,6 +17,8 @@ My current research is focused on **understanding how the input data distributio
 
 Recent News
 ======  
+- 11/2025 **[TRUST – The Norwegian Centre for Trustworthy AI](https://www.trust-aicentre.no/english/news-and-events/news/trust-launch.html)** has launched today with a keynote by Yoshua Bengio, Sigrun Aasland, and Karianne Tung! 
+- 11/2025 Our paper *[Aligning Attention with Human Rationales for Self-Explaining Hate Speech Detection](https://openreview.net/pdf?id=GGhmNxzOp2)* has been accepted to **AAAI 2026**.!
 - 11/2025 Tobias Müller has started his PhD at UiO. Welcome Tobias!
 - 10/2025 Ali Ramezani-Kebrya will be a Principal Investigator at TRUST – The Norwegian Centre for Trustworthy AI! 
 - 8/2025 Adrian Duric has started his PhD at UiO. Welcome Adrian! 
@@ -62,6 +64,12 @@ Recent News
 
 Selected Publications
 ======
+<img style="float: left;" src="/images/AAL.png" width="320"/> As algorithms make more **decisions that affect people’s lives**. It is crucial that we understand their reasoning.
+We introduce Supervised Rational Attention (SRA) that **aligns transformer attention with human rationales** to achieve **better explainability** and **improved fairness** in hate speech detection while maintaining competitive accuracy.
+
+Brage Eilertsen, Røskva Bjørgfinsdóttir, Francielle Vargas, and Ali Ramezani-Kebrya, **Aligning Attention with Human Rationales for Self-Explaining Hate Speech Detection**, AAAI 2026.  
+[pdf](https://openreview.net/pdf?id=GGhmNxzOp2){: .btn--research} [arXiv](https://arxiv.org/abs/2511.07065){: .btn--research}
+
 <img style="float: left;" src="/images/LayerQuant.png" width="320"/> We have developed a general **layer-wise quantization** framework taking into account the statistical heterogeneity across layers and an efficient solver for distributed variational inequalities. We establish tight variance and code-length bounds for layer-wise quantization, which generalize the bounds for global quantization frameworks.  We empirically achieve up to a **150% speedup** over the baselines in end-to-end training time for training Wasserstein GAN on **12+ GPUs**.
 
 
