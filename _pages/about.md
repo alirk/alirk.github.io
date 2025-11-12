@@ -65,7 +65,7 @@ Recent News
 Selected Publications
 ======
 <img style="float: left;" src="/images/AAL.png" width="300"/> As algorithms make more **decisions that affect people’s lives**. It is crucial that we understand their reasoning.
-We introduce Supervised Rational Attention (SRA) that **aligns transformer attention with human rationales** to achieve **better explainability** and **improved fairness** in hate speech detection while maintaining competitive accuracy.
+We introduce Supervised Rational Attention (SRA) that **aligns transformer attention with human rationales** to achieve **better explainability** and **improved fairness** in hate speech detection while maintaining competitive accuracy. SRA achieves 2.4× better explainability vs. the strongest baseline.
 
 Brage Eilertsen, Røskva Bjørgfinsdóttir, Francielle Vargas, and Ali Ramezani-Kebrya, **Aligning Attention with Human Rationales for Self-Explaining Hate Speech Detection**, AAAI 2026.  
 [pdf](https://openreview.net/pdf?id=GGhmNxzOp2){: .btn--research} [arXiv](https://arxiv.org/abs/2511.07065){: .btn--research}
