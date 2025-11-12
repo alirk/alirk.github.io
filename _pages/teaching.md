@@ -9,9 +9,9 @@ permalink: /teaching/
 author_profile: true
 
 ---
-UiO, Oslo, Norway, Main Instructor
+UiO, Oslo, Norway, Course Leader
 
-- Introduction to Artificial Intelligence and Machine Learning, Fall 2024.
+- Introduction to Artificial Intelligence and Machine Learning, Fall 2024, 2025.
 
 - Deep Learning for Image Analysis, Spring 2024, 2025.
 
