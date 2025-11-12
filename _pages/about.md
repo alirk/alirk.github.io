@@ -64,7 +64,7 @@ Recent News
 
 Selected Publications
 ======
-<img style="float: left;" src="/images/AAL.png" width="320"/> As algorithms make more **decisions that affect people’s lives**. It is crucial that we understand their reasoning.
+<img style="float: left;" src="/images/AAL.png" width="300"/> As algorithms make more **decisions that affect people’s lives**. It is crucial that we understand their reasoning.
 We introduce Supervised Rational Attention (SRA) that **aligns transformer attention with human rationales** to achieve **better explainability** and **improved fairness** in hate speech detection while maintaining competitive accuracy.
 
 Brage Eilertsen, Røskva Bjørgfinsdóttir, Francielle Vargas, and Ali Ramezani-Kebrya, **Aligning Attention with Human Rationales for Self-Explaining Hate Speech Detection**, AAAI 2026.  
@@ -137,7 +137,6 @@ Students
 - Johan Mylius Kroken, Ph.D. in progress, University of Tromsø. 
 - Zhiyuan Wu, Ph.D. in progress, University of Oslo.
 
-- Trude Halvorsen, MS in progress, University of Oslo.	
 - Kjetil Karstensen Indrehus, MS in progress, University of Oslo.
 - Arangan Subramaniam, MS in progress, University of Oslo.
 - Preben Nicholai Castberg, MS in progress, University of Oslo.
