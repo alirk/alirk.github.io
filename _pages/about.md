@@ -18,7 +18,7 @@ My current research is focused on **understanding how the input data distributio
 Recent News
 ======  
 - 11/2025 **[TRUST – The Norwegian Centre for Trustworthy AI](https://www.trust-aicentre.no/english/news-and-events/news/trust-launch.html)** has launched today with a keynote by Yoshua Bengio, Sigrun Aasland, and Karianne Tung! 
-- 11/2025 Our paper *[Aligning Attention with Human Rationales for Self-Explaining Hate Speech Detection](https://openreview.net/pdf?id=GGhmNxzOp2)* has been accepted to **AAAI 2026**.!
+- 11/2025 Our paper *[Aligning Attention with Human Rationales for Self-Explaining Hate Speech Detection](https://openreview.net/pdf?id=GGhmNxzOp2)* has been accepted to **AAAI 2026**!
 - 11/2025 Tobias Müller has started his PhD at UiO. Welcome Tobias!
 - 10/2025 Ali Ramezani-Kebrya will be a Principal Investigator at TRUST – The Norwegian Centre for Trustworthy AI! 
 - 8/2025 Adrian Duric has started his PhD at UiO. Welcome Adrian! 
