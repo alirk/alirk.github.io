@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Associate Professor (with tenure) in the [Department of Informatics](https://www.mn.uio.no/ifi/english/index.html) at the [University of Oslo (UiO)](https://www.uio.no/english/), a Research Theme Leader at the [Norwegian Center for Knowledge-driven Machine Learning (Integreat)](https://www.integreat.no/), a Principal Investigator at TRUST – The Norwegian Centre for Trustworthy AI, and the [SFI Visual Intelligence](https://www.visual-intelligence.no/), and a member of the [European Laboratory for Learning and Intelligent Systems (ELLIS) Society](https://ellis.eu/). I serve as an Area Chair of NeurIPS, ICML, and AISTATS and Action Editor for [Transactions on Machine Learning Research](https://jmlr.org/tmlr/index.html). I have received [FRIPRO Grant for Early Career Scientists](https://www.integreat.no/news/two-new-integreat-pis-awarded-fripro-grants-ingrid.html). 
+I am an Associate Professor (with tenure) in the [Department of Informatics](https://www.mn.uio.no/ifi/english/index.html) at the [University of Oslo (UiO)](https://www.uio.no/english/), a Research Theme Leader at the [Norwegian Center for Knowledge-driven Machine Learning (Integreat)](https://www.integreat.no/), a Principal Investigator at TRUST – The Norwegian Centre for Trustworthy AI, and the [SFI Visual Intelligence](https://www.visual-intelligence.no/), and a member of the [European Laboratory for Learning and Intelligent Systems (ELLIS) Society](https://ellis.eu/). I serve as an Area Chair of NeurIPS, ICML, and AISTATS and Action Editor for [Transactions on Machine Learning Research](https://jmlr.org/tmlr/index.html). I have received [FRIPRO Grant for Early Career Scientists](https://www.integreat.no/news/two-new-integreat-pis-awarded-fripro-grants-ingrid.html) and received Top 10% Area Chair Recognition at NeurIPS 2025. 
 
 Before joining UiO, I was a Senior Scientific Collaborator at [EPFL](https://www.epfl.ch/en/), working with [Prof. Volkan Cevher](https://people.epfl.ch/volkan.cevher?lang=en) in [Laboratory for Information and Inference Systems (LIONS)](https://www.epfl.ch/labs/lions/). Before joining LIONS, I was an [NSERC Postdoctoral Fellow](https://www.nserc-crsng.gc.ca/students-etudiants/pd-np/pdf-bp_eng.asp) at the [Vector Institute](https://vectorinstitute.ai/) in Toronto working with [Prof. Daniel M. Roy](http://danroy.org/). I received my Ph.D. from the [University of Toronto](https://www.utoronto.ca/) where I was very fortunate to be advised by [Prof. Ben Liang](https://www.comm.utoronto.ca/~liang/) and [Prof. Min Dong](https://sites.google.com/ontariotechu.net/dong?pli=1). 
 
@@ -17,6 +17,7 @@ My current research is focused on **understanding how the input data distributio
 
 Recent News
 ======  
+- 11/2025 Ali Ramezani-Kebrya has received **Top 10% Area Chair Recognition at NeurIPS 2025**! 
 - 11/2025 **[TRUST – The Norwegian Centre for Trustworthy AI](https://www.trust-aicentre.no/english/news-and-events/news/trust-launch.html)** has launched today with a keynote by Yoshua Bengio, Sigrun Aasland, and Karianne Tung! 
 - 11/2025 Our paper *[Aligning Attention with Human Rationales for Self-Explaining Hate Speech Detection](https://openreview.net/pdf?id=GGhmNxzOp2)* has been accepted to **AAAI 2026**!
 - 11/2025 Tobias Müller has started his PhD at UiO. Welcome Tobias!
