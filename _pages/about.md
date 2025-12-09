@@ -17,50 +17,50 @@ My current research is focused on **understanding how the input data distributio
 
 Recent News
 ======  
-- 12/2025: I serve as an Area Chair of ICLR 2026.
+- 12/2025 I serve as an Area Chair of ICLR 2026.
 - 11/2025 Ali Ramezani-Kebrya has received **Top 10% Area Chair Recognition at NeurIPS 2025**! 
 - 11/2025 **[TRUST – The Norwegian Centre for Trustworthy AI](https://www.trust-aicentre.no/english/news-and-events/news/trust-launch.html)** has launched today with a keynote by Yoshua Bengio, Sigrun Aasland, and Karianne Tung! 
 - 11/2025 Our paper *[Aligning Attention with Human Rationales for Self-Explaining Hate Speech Detection](https://openreview.net/pdf?id=GGhmNxzOp2)* has been accepted to **AAAI 2026**!
 - 11/2025 Tobias Müller has started his PhD at UiO. Welcome Tobias!
 - 10/2025 Ali Ramezani-Kebrya will be a Principal Investigator at TRUST – The Norwegian Centre for Trustworthy AI! 
 - 8/2025 Adrian Duric has started his PhD at UiO. Welcome Adrian! 
-- 7/2025: **I am hiring for two exciting positions:** [**PhD**](https://www.jobbnorge.no/en/available-jobs/job/283103/phd-research-fellow-in-machine-learning) and [**Postdoc**](https://www.jobbnorge.no/en/available-jobs/job/283109/postdoctoral-research-fellow-in-machine-learning)
-- 5/2025: Our paper *[Quantized Optimistic Dual Averaging with Adaptive Layer-wise Compression](https://arxiv.org/abs/2505.14371)* has been accepted to **ICML 2025**.
-- 4/2025: I have received a [**FRIPRO Grant for Early Career Scientists**](https://www.integreat.no/news/two-new-integreat-pis-awarded-fripro-grants-ingrid.html) for project **Machine Learning in Real World (MLReal)**.
-- 1/2025: Our paper *[Addressing Label Shift in Distributed Learning via Entropy Regularization](https://openreview.net/forum?id=kuYxecnlv2)* has been accepted to **ICLR 2025**.
+- 7/2025 **I am hiring for two exciting positions:** [**PhD**](https://www.jobbnorge.no/en/available-jobs/job/283103/phd-research-fellow-in-machine-learning) and [**Postdoc**](https://www.jobbnorge.no/en/available-jobs/job/283109/postdoctoral-research-fellow-in-machine-learning)
+- 5/2025 Our paper *[Quantized Optimistic Dual Averaging with Adaptive Layer-wise Compression](https://arxiv.org/abs/2505.14371)* has been accepted to **ICML 2025**.
+- 4/2025 I have received a [**FRIPRO Grant for Early Career Scientists**](https://www.integreat.no/news/two-new-integreat-pis-awarded-fripro-grants-ingrid.html) for project **Machine Learning in Real World (MLReal)**.
+- 1/2025 Our paper *[Addressing Label Shift in Distributed Learning via Entropy Regularization](https://openreview.net/forum?id=kuYxecnlv2)* has been accepted to **ICLR 2025**.
 {% comment %}
-- 1/2025: I have open Postdoc positions (3 year contract co-funded by EU under MSCA) [**Check Themes DSB4 and DSB3 here and email me if interested!**](https://www.uio.no/dscience/english/dstrain/research-areas2025/informatics/machine-learning-signal-processing-and-image-analy/)
+- 1/2025 I have open Postdoc positions (3 year contract co-funded by EU under MSCA) [**Check Themes DSB4 and DSB3 here and email me if interested!**](https://www.uio.no/dscience/english/dstrain/research-areas2025/informatics/machine-learning-signal-processing-and-image-analy/)
 {% endcomment %}
-- 11/2024: I will serve as an Action Editor for [Transactions on Machine Learning Research](https://jmlr.org/tmlr/index.html).
-- 10/2024: I will serve as an Area Chair of AISTATS 2025. 
-- 8/2024: [Integreat](https://www.integreat.no/) is officially launched. 
-- 4/2024: I have [**PhD Position in ML**](https://www.jobbnorge.no/en/available-jobs/job/262282/phd-research-fellow-in-machine-learning).
-- 3/2024: I will serve as an Area Chair of NeurIPS 2024. 
-- 2/2024: We have one [postdoc position](https://www.jobbnorge.no/en/available-jobs/job/255679/dstrain-msca-postdoctoral-fellowships-in-computational-and-natural-sciences-18-positions) in "Joint Physics-informed and Data-driven Complex Dynamical System Solvers".
-- 2/2024: Our paper *[Mixed Nash for Robust Federated Learning](https://openreview.net/pdf?id=mqMzerrVOB)* has been accepted to the **Transactions on Machine Learning Research**.
-- 2/2024: The Research Excellence Center [SFI Visual Intelligence](https://www.visual-intelligence.no/) has recognized our work [Federated Learning under Covariate Shifts with Generalization Guarantees](https://openreview.net/pdf?id=N7lCDaeNiS) as **Spotlight Publications** from 2023!   
-- 1/2024: Our paper *[On the Generalization of Stochastic Gradient Descent with Momentum](https://jmlr.org/papers/v25/22-0068.html)* has been accepted to the **Journal of Machine Learning Research**.
+- 11/2024 I will serve as an Action Editor for [Transactions on Machine Learning Research](https://jmlr.org/tmlr/index.html).
+- 10/2024 I will serve as an Area Chair of AISTATS 2025. 
+- 8/2024 [Integreat](https://www.integreat.no/) is officially launched. 
+- 4/2024 I have [**PhD Position in ML**](https://www.jobbnorge.no/en/available-jobs/job/262282/phd-research-fellow-in-machine-learning).
+- 3/2024 I will serve as an Area Chair of NeurIPS 2024. 
+- 2/2024 We have one [postdoc position](https://www.jobbnorge.no/en/available-jobs/job/255679/dstrain-msca-postdoctoral-fellowships-in-computational-and-natural-sciences-18-positions) in "Joint Physics-informed and Data-driven Complex Dynamical System Solvers".
+- 2/2024 Our paper *[Mixed Nash for Robust Federated Learning](https://openreview.net/pdf?id=mqMzerrVOB)* has been accepted to the **Transactions on Machine Learning Research**.
+- 2/2024 The Research Excellence Center [SFI Visual Intelligence](https://www.visual-intelligence.no/) has recognized our work [Federated Learning under Covariate Shifts with Generalization Guarantees](https://openreview.net/pdf?id=N7lCDaeNiS) as **Spotlight Publications** from 2023!   
+- 1/2024 Our paper *[On the Generalization of Stochastic Gradient Descent with Momentum](https://jmlr.org/papers/v25/22-0068.html)* has been accepted to the **Journal of Machine Learning Research**.
 {% comment %}
-- 1/2024: We will have Multiple Exciting Ph.D. Positions through [Integreat](https://www.integreat.no/) joint with wonderful Computer Scientists, Statisticians, and Mathematicians across Norway!
-- 1/2024: I am the main organizer of [Integreat](https://www.integreat.no/) **Discrepancies Seminar Series**.
-- 1/2024: I am a Program Chair at the [Northern Lights Deep Learning Conference (NLDL 2024)](https://www.nldl.org/).
-- 12/2024: Our new PhD research fellow  Amir Arfan has started the PhD through SUURPh programme. Welcome Amir!
-- 10/2023: I gave a talk titled **Learning under Resource Constraints in Real World** at the  [University of Toronto](https://www.ece.utoronto.ca/).
-- 9/2023: I gave a talk titled **Learning under Resource Constraints in Real World** at the  [University of Copenhagen](https://www.aicentre.dk/).
-- 9/2023: I gave a talk titled **Learning under Resource Constraints in Real World** at [Integreat](https://www.integreat.no/).
-- 6/2023: Our paper *[Federated Learning under Covariate Shifts with Generalization Guarantees](https://openreview.net/pdf?id=N7lCDaeNiS)* has been published in **Transactions on Machine Learning Research**.
-- 4/2023: I am now a PI at the [Visual Intelligence](https://www.visual-intelligence.no/)!
-- 3/2023: I gave a talk titled [Scalable and Robust Deep Learning](https://www.youtube.com/watch?v=kjaAfse9fzY&t=1120s&ab_channel=SFIVisualIntelligence) at the Visual Intelligence.
-- 1/2023: We have an open [Ph.D. position](https://www.jobbnorge.no/en/available-jobs/job/239426/phd-research-fellow-in-machine-learning). Deadline: 28 Feb, 2023. 
-- 1/2023: Our paper *[Distributed Extra-gradient with Optimal Complexity and Communication Guarantees](https://openreview.net/pdf?id=b3itJyarLM0)* has been accepted to **ICLR 2023**.
-- 1/2023: I am now a member of the [ELLIS Society](https://ellis.eu/)!
-- 1/2023: I joined the Department of Informatics at the University of Oslo!
-- 12/2022: I gave a talk titled `Randomization Improves Deep Learning Security` at the Annual Workshop of the VILLUM Investigator Grant at Aalborg University. 
-- 10/2022: Our paper *[MixTailor: Mixed Gradient Aggregation for Robust Learning Against Tailored Attacks](https://openreview.net/pdf?id=tqDhrbKJLS)* has been published in **Transactions on Machine Learning Research**. 
-- 8/2022: I gave a talk titled `How Did DL Dominate Today’s ML? What Challenges and Limitations Remain? at the University of Oslo.
-- 6/2022: I gave a talk titled `Scalable ML: Communication-efficiency, Security, and Architecture Design` at the University of Edinburgh.
-- 2/2022: I gave a talk titled `Scalable ML: Communication-efficiency, Security, and Architecture Design` at the University of Liverpool.
-- 09/2021: Our paper *[Subquadratic Overparameterization for Shallow Neural Networks](https://proceedings.neurips.cc/paper/2021/hash/5d9e4a04afb9f3608ccc76c1ffa7573e-Abstract.html)* has been accepted to **NeurIPS 2021**.
+- 1/2024 We will have Multiple Exciting Ph.D. Positions through [Integreat](https://www.integreat.no/) joint with wonderful Computer Scientists, Statisticians, and Mathematicians across Norway!
+- 1/2024 I am the main organizer of [Integreat](https://www.integreat.no/) **Discrepancies Seminar Series**.
+- 1/2024 I am a Program Chair at the [Northern Lights Deep Learning Conference (NLDL 2024)](https://www.nldl.org/).
+- 12/2024 Our new PhD research fellow  Amir Arfan has started the PhD through SUURPh programme. Welcome Amir!
+- 10/2023 I gave a talk titled **Learning under Resource Constraints in Real World** at the  [University of Toronto](https://www.ece.utoronto.ca/).
+- 9/2023 I gave a talk titled **Learning under Resource Constraints in Real World** at the  [University of Copenhagen](https://www.aicentre.dk/).
+- 9/2023 I gave a talk titled **Learning under Resource Constraints in Real World** at [Integreat](https://www.integreat.no/).
+- 6/2023 Our paper *[Federated Learning under Covariate Shifts with Generalization Guarantees](https://openreview.net/pdf?id=N7lCDaeNiS)* has been published in **Transactions on Machine Learning Research**.
+- 4/2023 I am now a PI at the [Visual Intelligence](https://www.visual-intelligence.no/)!
+- 3/2023 I gave a talk titled [Scalable and Robust Deep Learning](https://www.youtube.com/watch?v=kjaAfse9fzY&t=1120s&ab_channel=SFIVisualIntelligence) at the Visual Intelligence.
+- 1/2023 We have an open [Ph.D. position](https://www.jobbnorge.no/en/available-jobs/job/239426/phd-research-fellow-in-machine-learning). Deadline: 28 Feb, 2023. 
+- 1/2023 Our paper *[Distributed Extra-gradient with Optimal Complexity and Communication Guarantees](https://openreview.net/pdf?id=b3itJyarLM0)* has been accepted to **ICLR 2023**.
+- 1/2023 I am now a member of the [ELLIS Society](https://ellis.eu/)!
+- 1/2023 I joined the Department of Informatics at the University of Oslo!
+- 12/2022 I gave a talk titled `Randomization Improves Deep Learning Security` at the Annual Workshop of the VILLUM Investigator Grant at Aalborg University. 
+- 10/2022 Our paper *[MixTailor: Mixed Gradient Aggregation for Robust Learning Against Tailored Attacks](https://openreview.net/pdf?id=tqDhrbKJLS)* has been published in **Transactions on Machine Learning Research**. 
+- 8/2022 I gave a talk titled `How Did DL Dominate Today’s ML? What Challenges and Limitations Remain? at the University of Oslo.
+- 6/2022 I gave a talk titled `Scalable ML: Communication-efficiency, Security, and Architecture Design` at the University of Edinburgh.
+- 2/2022 I gave a talk titled `Scalable ML: Communication-efficiency, Security, and Architecture Design` at the University of Liverpool.
+- 09/2021 Our paper *[Subquadratic Overparameterization for Shallow Neural Networks](https://proceedings.neurips.cc/paper/2021/hash/5d9e4a04afb9f3608ccc76c1ffa7573e-Abstract.html)* has been accepted to **NeurIPS 2021**.
 {% endcomment %}
 -----
 
