@@ -17,6 +17,7 @@ My current research is focused on **understanding how the input data distributio
 
 Recent News
 ======  
+- 1/2026 Christina Runkel has joined us at INTEGREAT and UiO. Welcome Christina!
 - 12/2025 I serve as an Area Chair of ICLR 2026.
 - 11/2025 Ali Ramezani-Kebrya has received **Top 10% Area Chair Recognition at NeurIPS 2025**! 
 - 11/2025 **[TRUST – The Norwegian Centre for Trustworthy AI](https://www.trust-aicentre.no/english/news-and-events/news/trust-launch.html)** has launched today with a keynote by Yoshua Bengio, Sigrun Aasland, and Karianne Tung! 
