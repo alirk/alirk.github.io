@@ -11,13 +11,13 @@ I am an Associate Professor (with tenure) in the [Department of Informatics](htt
 
 Before joining UiO, I was a Senior Scientific Collaborator at [EPFL](https://www.epfl.ch/en/), working with [Prof. Volkan Cevher](https://people.epfl.ch/volkan.cevher?lang=en) in [Laboratory for Information and Inference Systems (LIONS)](https://www.epfl.ch/labs/lions/). Before joining LIONS, I was an [NSERC Postdoctoral Fellow](https://www.nserc-crsng.gc.ca/students-etudiants/pd-np/pdf-bp_eng.asp) at the [Vector Institute](https://vectorinstitute.ai/) in Toronto working with [Prof. Daniel M. Roy](http://danroy.org/). I received my Ph.D. from the [University of Toronto](https://www.utoronto.ca/) where I was very fortunate to be advised by [Prof. Ben Liang](https://www.comm.utoronto.ca/~liang/) and [Prof. Min Dong](https://sites.google.com/ontariotechu.net/dong?pli=1). 
 
-My current research is focused on **understanding how the input data distribution is encoded within layers of neural networks** and developing **theoretical concepts** and **practical tools** to minimize the statistical risk under resource constraints and realistic settings referring to **statistical and system** characteristics contrary to an ideal learning setting. I am interested in a broad range of applications including but not limited to **emotion recognition**, **marine data**,  and **neuroscience**.
+My current research is focused on **understanding how the input data distribution is encoded within layers of neural networks** and developing **theoretical concepts** and **practical tools** to minimize the statistical risk under resource constraints and realistic settings referring to **statistical and system** characteristics contrary to an ideal learning setting. My current research topics: **Trustworthy AI**, **Deep Learning**, **Learning Theory**, **LLMs and Reasoning Models**, and **Emotion Recognition** and **Co-creative AI**.
 
 -----
 
 Recent News
 ======  
-- 1/2026 One Submission and One Accept at ICLR26!
+- 1/2026 One Submission and One Accept at **ICLR 2026**!
 - 1/2026 Christina Runkel has joined us at INTEGREAT and UiO. Welcome Christina!
 - 12/2025 I serve as an Area Chair of ICLR 2026.
 - 11/2025 Ali Ramezani-Kebrya has received **Top 10% Area Chair Recognition at NeurIPS 2025**! 
@@ -70,7 +70,7 @@ Selected Publications
 ======
 <img style="float: left;" src="/images/Cogni.png" width="300"/> Inspired by Cognitive Load Theory, we developed **logic puzzles with controlling proxies of three types of cognitive load on human working memory when solving problems**. CogniLoad generates **random logic puzzles very efficiently without requiring any external knowledge or retrieval just assessing** inherent brain of reasoning LLMs. 22 SotA reasoning LLMs are evaluated. 
 
-Daniel Kaiser, Arnoldo Frigessi, Ali Ramezani-Kebrya, and Benjamin Ricaud, ** CogniLoad: A Synthetic Natural Language Reasoning Benchmark With Tunable Length, Intrinsic Difficulty, and Distractor Density**, ICLR 2026.  
+Daniel Kaiser, Arnoldo Frigessi, Ali Ramezani-Kebrya, and Benjamin Ricaud, **CogniLoad: A Synthetic Natural Language Reasoning Benchmark With Tunable Length, Intrinsic Difficulty, and Distractor Density**, ICLR 2026.  
 [pdf](https://openreview.net/pdf?id=5XmZ5f5QVw){: .btn--research} [arXiv](https://arxiv.org/abs/2509.18458){: .btn--research} [openreview](https://openreview.net/forum?id=5XmZ5f5QVw&referrer=%5Bthe%20profile%20of%20Arnoldo%20Frigessi%5D(%2Fprofile%3Fid%3D~Arnoldo_Frigessi1)){: .btn--research}
 
 
