@@ -7,8 +7,8 @@ author_profile: true
 
 Deep Learning   
 ======
-Anh Duc Nguyen, Ilia Markov, Frank Zhengqing Wu, Ali Ramezani-Kebrya, Kimon Antonakopoulos, Dan Alistarh, and Volkan Cevher, **Layer-wise Quantization for Quantized Optimistic Dual Averaging**, ICML 2025. 
-[arXiv](https://arxiv.org/abs/2505.14371){: .btn--research}
+Anh Duc Nguyen, Ilia Markov, Frank Zhengqing Wu, Ali Ramezani-Kebrya, Kimon Antonakopoulos, Dan Alistarh, and Volkan Cevher, **Layer-wise Quantization for Quantized Optimistic Dual Averaging**, ICML 2025.[pdf](https://openreview.net/pdf?id=J6LYjEOxbz){: .btn--research} [poster](https://icml.cc/media/PosterPDFs/ICML%202025/45711.png?t=1752150381.1365473){: .btn--research} [openreview](https://openreview.net/forum?id=J6LYjEOxbz&noteId=XPlechyXOj){: .btn--research} [arXiv](https://arxiv.org/abs/2505.14371){: .btn--research}
+
 
 Ali Ramezani-Kebrya\*, Kimon Antonakopoulos\*, Igor Krawczuk\*, Justin Deschenaux\*, and Volkan Cevher, **Distributed Extra-gradient with Optimal Complexity and Communication Guarantees**, ICLR 2023.  
 [pdf](https://openreview.net/pdf?id=b3itJyarLM0){: .btn--research} [bib](https://scholar.googleusercontent.com/scholar.bib?q=info:0Rc5SDH6BLEJ:scholar.google.com/&output=citation&scisdr=Cpu_FFPiEKCS49Q_XLg:AJ9-iYsAAAAAZEk5RLiokHqP3Zwtjs3yxY4tW3g&scisig=AJ9-iYsAAAAAZEk5RPim2bqJoOMe3WMWc15niVM&scisf=4&ct=citation&cd=-1&hl=en){: .btn--research} [code](https://github.com/LIONS-EPFL/QGENX){: .btn--research} [openreview](https://openreview.net/forum?id=b3itJyarLM0){: .btn--research} 
@@ -24,7 +24,7 @@ Fartash Faghri\*, Iman Tabrizian\*, Ilya Markov, Dan Alistarh, Daniel M. Roy, an
 Trustworthy AI    
 ======
 Brage Eilertsen, Røskva Bjørgfinsdóttir, Francielle Vargas, and Ali Ramezani-Kebrya, **Aligning Attention with Human Rationales for Self-Explaining Hate Speech Detection**, AAAI 2026.  
-[pdf](https://openreview.net/pdf?id=GGhmNxzOp2){: .btn--research} [arXiv](https://arxiv.org/abs/2511.07065){: .btn--research}
+[pdf](https://openreview.net/pdf?id=GGhmNxzOp2){: .btn--research} [demo](https://huggingface.co/bragee/sra-hate-speech-bert){: .btn--research} [arXiv](https://arxiv.org/abs/2511.07065){: .btn--research} [poster](https://www.linkedin.com/posts/ali-ramezani-kebrya-6896b924_aligning-attention-trustworthyai-activity-7417946055113240576-o00X?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAAUWQ4kBlBYcMDN26XooHrpTcRybZZnrg9I){: .btn--research}
 
 Zhiyuan Wu\*, Changkyu Choi\*, Xiangcheng Cao, Volkan Cevher, and Ali Ramezani-Kebrya, **Addressing Label Shift in Distributed Learning via Entropy Regularization**, ICLR 2025.  
 [pdf](https://openreview.net/pdf?id=kuYxecnlv2){: .btn--research} [code](https://github.com/zhiyuan-11/VRLS_main/tree/main){: .btn--research} [openreview](https://openreview.net/forum?id=kuYxecnlv2){: .btn--research} [arXiv](https://arxiv.org/abs/2502.02544){: .btn--research}

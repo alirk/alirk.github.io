@@ -71,13 +71,13 @@ Selected Publications
 We introduce Supervised Rational Attention (SRA) that **aligns transformer attention with human rationales** to achieve **better explainability** and **improved fairness** in hate speech detection while maintaining competitive accuracy. SRA achieves 2.4× better explainability vs. the strongest baseline.
 
 Brage Eilertsen, Røskva Bjørgfinsdóttir, Francielle Vargas, and Ali Ramezani-Kebrya, **Aligning Attention with Human Rationales for Self-Explaining Hate Speech Detection**, AAAI 2026.  
-[pdf](https://openreview.net/pdf?id=GGhmNxzOp2){: .btn--research} [arXiv](https://arxiv.org/abs/2511.07065){: .btn--research}
+[pdf](https://openreview.net/pdf?id=GGhmNxzOp2){: .btn--research} [demo](https://huggingface.co/bragee/sra-hate-speech-bert){: .btn--research} [arXiv](https://arxiv.org/abs/2511.07065){: .btn--research} [poster](https://www.linkedin.com/posts/ali-ramezani-kebrya-6896b924_aligning-attention-trustworthyai-activity-7417946055113240576-o00X?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAAUWQ4kBlBYcMDN26XooHrpTcRybZZnrg9I){: .btn--research}
+
 
 <img style="float: left;" src="/images/LayerQuant.png" width="320"/> We have developed a general **layer-wise quantization** framework taking into account the statistical heterogeneity across layers and an efficient solver for distributed variational inequalities. We establish tight variance and code-length bounds for layer-wise quantization, which generalize the bounds for global quantization frameworks.  We empirically achieve up to a **150% speedup** over the baselines in end-to-end training time for training Wasserstein GAN on **12+ GPUs**.
 
 
-Anh Duc Nguyen, Ilia Markov, Frank Zhengqing Wu, Ali Ramezani-Kebrya, Kimon Antonakopoulos, Dan Alistarh, and Volkan Cevher, **Layer-wise Quantization for Quantized Optimistic Dual Averaging**, ICML 2025. 
-[arXiv](https://arxiv.org/abs/2505.14371){: .btn--research}
+Anh Duc Nguyen, Ilia Markov, Frank Zhengqing Wu, Ali Ramezani-Kebrya, Kimon Antonakopoulos, Dan Alistarh, and Volkan Cevher, **Layer-wise Quantization for Quantized Optimistic Dual Averaging**, ICML 2025. [pdf](https://openreview.net/pdf?id=J6LYjEOxbz){: .btn--research} [poster](https://icml.cc/media/PosterPDFs/ICML%202025/45711.png?t=1752150381.1365473){: .btn--research} [openreview](https://openreview.net/forum?id=J6LYjEOxbz&noteId=XPlechyXOj){: .btn--research} [arXiv](https://arxiv.org/abs/2505.14371){: .btn--research}
 
 <img style="float: left;" src="/images/LS.png" width="320"/>  We have introduced a method to **minimize overall true risk** in distributed settings under inter-node and intra-node **label shifts**. We improve test-to-train density ratio estimation through Shannon entropy-based regularization. Our method encourages smoother and more reliable predictions that account for inherent uncertainty in the data with a better approximation of class conditional probabilities, and **achieves up to 20% improvement in average test error** in imbalanced settings approaching an upper bound.
 
