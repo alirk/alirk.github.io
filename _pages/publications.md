@@ -8,7 +8,7 @@ author_profile: true
 LLMs and Reasoning Models   
 ======
 
-Daniel Kaiser, Arnoldo Frigessi, Ali Ramezani-Kebrya, and Benjamin Ricaud, ** CogniLoad: A Synthetic Natural Language Reasoning Benchmark With Tunable Length, Intrinsic Difficulty, and Distractor Density**, ICLR 2026.  
+Daniel Kaiser, Arnoldo Frigessi, Ali Ramezani-Kebrya, and Benjamin Ricaud, **CogniLoad: A Synthetic Natural Language Reasoning Benchmark With Tunable Length, Intrinsic Difficulty, and Distractor Density**, ICLR 2026.  
 [pdf](https://openreview.net/pdf?id=5XmZ5f5QVw){: .btn--research} [arXiv](https://arxiv.org/abs/2509.18458){: .btn--research} [openreview](https://openreview.net/forum?id=5XmZ5f5QVw&referrer=%5Bthe%20profile%20of%20Arnoldo%20Frigessi%5D(%2Fprofile%3Fid%3D~Arnoldo_Frigessi1)){: .btn--research}
 
 -----
