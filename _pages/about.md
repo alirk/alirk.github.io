@@ -17,6 +17,7 @@ My current research is focused on **understanding how the input data distributio
 
 Recent News
 ======  
+- 1/2026 One Submission and One Accept at ICLR26!
 - 1/2026 Christina Runkel has joined us at INTEGREAT and UiO. Welcome Christina!
 - 12/2025 I serve as an Area Chair of ICLR 2026.
 - 11/2025 Ali Ramezani-Kebrya has received **Top 10% Area Chair Recognition at NeurIPS 2025**! 
@@ -67,6 +68,12 @@ Recent News
 
 Selected Publications
 ======
+<img style="float: left;" src="/images/Cogni.png" width="300"/> Inspired by Cognitive Load Theory, we developed **logic puzzles with controlling proxies of three types of cognitive load on human working memory when solving problems**. CogniLoad generates **random logic puzzles very efficiently without requiring any external knowledge or retrieval just assessing** inherent brain of reasoning LLMs. 22 SotA reasoning LLMs are evaluated. 
+
+Daniel Kaiser, Arnoldo Frigessi, Ali Ramezani-Kebrya, and Benjamin Ricaud, ** CogniLoad: A Synthetic Natural Language Reasoning Benchmark With Tunable Length, Intrinsic Difficulty, and Distractor Density**, ICLR 2026.  
+[pdf](https://openreview.net/pdf?id=5XmZ5f5QVw){: .btn--research} [arXiv](https://arxiv.org/abs/2509.18458){: .btn--research} [openreview](https://openreview.net/forum?id=5XmZ5f5QVw&referrer=%5Bthe%20profile%20of%20Arnoldo%20Frigessi%5D(%2Fprofile%3Fid%3D~Arnoldo_Frigessi1)){: .btn--research}
+
+
 <img style="float: left;" src="/images/AAL.png" width="300"/> As algorithms make more **decisions that affect people’s lives**. It is crucial that we understand their reasoning.
 We introduce Supervised Rational Attention (SRA) that **aligns transformer attention with human rationales** to achieve **better explainability** and **improved fairness** in hate speech detection while maintaining competitive accuracy. SRA achieves 2.4× better explainability vs. the strongest baseline.
 
@@ -77,12 +84,12 @@ Brage Eilertsen, Røskva Bjørgfinsdóttir, Francielle Vargas, and Ali Ramezani-
 <img style="float: left;" src="/images/LayerQuant.png" width="320"/> We have developed a general **layer-wise quantization** framework taking into account the statistical heterogeneity across layers and an efficient solver for distributed variational inequalities. We establish tight variance and code-length bounds for layer-wise quantization, which generalize the bounds for global quantization frameworks.  We empirically achieve up to a **150% speedup** over the baselines in end-to-end training time for training Wasserstein GAN on **12+ GPUs**.
 
 
-Anh Duc Nguyen, Ilia Markov, Frank Zhengqing Wu, Ali Ramezani-Kebrya, Kimon Antonakopoulos, Dan Alistarh, and Volkan Cevher, **Layer-wise Quantization for Quantized Optimistic Dual Averaging**, ICML 2025. [pdf](https://openreview.net/pdf?id=J6LYjEOxbz){: .btn--research} [poster](https://icml.cc/media/PosterPDFs/ICML%202025/45711.png?t=1752150381.1365473){: .btn--research} [openreview](https://openreview.net/forum?id=J6LYjEOxbz&noteId=XPlechyXOj){: .btn--research} [arXiv](https://arxiv.org/abs/2505.14371){: .btn--research}
+Anh Duc Nguyen, Ilia Markov, Frank Zhengqing Wu, Ali Ramezani-Kebrya, Kimon Antonakopoulos, Dan Alistarh, and Volkan Cevher, **Layer-wise Quantization for Quantized Optimistic Dual Averaging**, ICML 2025. [pdf](https://openreview.net/pdf?id=J6LYjEOxbz){: .btn--research} [poster](https://icml.cc/media/PosterPDFs/ICML%202025/45711.png?t=1752150381.1365473){: .btn--research} [openreview](https://openreview.net/forum?id=J6LYjEOxbz&noteId=XPlechyXOj){: .btn--research} [arXiv](https://arxiv.org/abs/2505.14371){: .btn--research} 
 
 <img style="float: left;" src="/images/LS.png" width="320"/>  We have introduced a method to **minimize overall true risk** in distributed settings under inter-node and intra-node **label shifts**. We improve test-to-train density ratio estimation through Shannon entropy-based regularization. Our method encourages smoother and more reliable predictions that account for inherent uncertainty in the data with a better approximation of class conditional probabilities, and **achieves up to 20% improvement in average test error** in imbalanced settings approaching an upper bound.
 
 Zhiyuan Wu\*, Changkyu Choi\*, Xiangcheng Cao, Volkan Cevher, and Ali Ramezani-Kebrya, **Addressing Label Shift in Distributed Learning via Entropy Regularization**, ICLR 2025.  
-[pdf](https://openreview.net/pdf?id=kuYxecnlv2){: .btn--research} [code](https://github.com/zhiyuan-11/VRLS_main/tree/main){: .btn--research} [openreview](https://openreview.net/forum?id=kuYxecnlv2){: .btn--research} [arXiv](https://arxiv.org/abs/2502.02544){: .btn--research}
+[pdf](https://openreview.net/pdf?id=kuYxecnlv2){: .btn--research} [code](https://github.com/zhiyuan-11/VRLS_main/tree/main){: .btn--research} [openreview](https://openreview.net/forum?id=kuYxecnlv2){: .btn--research} [arXiv](https://arxiv.org/abs/2502.02544){: .btn--research} 
 
 
 <img style="float: left;" src="/images/SGDEM.png" width="320"/>  We have shown it is crucial to establish an appropriate balance between the **optimization error** associated with the empirical risk and the **generalization error** when accelerating SGD with momentum and established generalization error bounds and explicit convergence rates for SGD with momentum under a broad range of hyperparameters including a general step-size rule. For smooth Lipschitz loss functions, we analyze SGD with early momentum (SGDEM) under a broad range
