@@ -17,6 +17,7 @@ My current research is focused on **understanding how the input data distributio
 
 Recent News
 ======  
+- 2/2026 **Two exciting PhD positions are available:** [**Deadline March 1st**](https://www.jobbnorge.no/en/available-jobs/job/294560/phd-research-fellow-in-deep-learning-for-medical-imaging-and-multi-modal-data-in-cancer-research) and [**Deadline March 8th**](https://www.jobbnorge.no/en/available-jobs/job/295231/phd-research-fellow-in-machine-learning-and-statistics). 
 - 1/2026 One Submission and One Accept at **ICLR 2026**!
 - 1/2026 Christina Runkel has joined us at INTEGREAT and UiO. Welcome Christina!
 - 12/2025 I serve as an Area Chair of ICLR 2026.
@@ -26,7 +27,6 @@ Recent News
 - 11/2025 Tobias Müller has started his PhD at UiO. Welcome Tobias!
 - 10/2025 Ali Ramezani-Kebrya will be a Principal Investigator at TRUST – The Norwegian Centre for Trustworthy AI! 
 - 8/2025 Adrian Duric has started his PhD at UiO. Welcome Adrian! 
-- 7/2025 **I am hiring for two exciting positions:** [**PhD**](https://www.jobbnorge.no/en/available-jobs/job/283103/phd-research-fellow-in-machine-learning) and [**Postdoc**](https://www.jobbnorge.no/en/available-jobs/job/283109/postdoctoral-research-fellow-in-machine-learning)
 - 5/2025 Our paper *[Quantized Optimistic Dual Averaging with Adaptive Layer-wise Compression](https://arxiv.org/abs/2505.14371)* has been accepted to **ICML 2025**.
 - 4/2025 I have received a [**FRIPRO Grant for Early Career Scientists**](https://www.integreat.no/news/two-new-integreat-pis-awarded-fripro-grants-ingrid.html) for project **Machine Learning in Real World (MLReal)**.
 - 1/2025 Our paper *[Addressing Label Shift in Distributed Learning via Entropy Regularization](https://openreview.net/forum?id=kuYxecnlv2)* has been accepted to **ICLR 2025**.
