@@ -161,15 +161,16 @@ My Stellar Team
 - Esther Zijerveld, MS in progress, UiO.
 - Inger Kavlie, MS in progress, UiO.
 - Noor Fatima, MS in progress, UiO. 
-- Arangan Subramaniam, MS in progress, UiO.
-- Preben Nicholai Castberg, MS in progress, UiO.
+- Arangan Subramaniam, MS, in progress, UiO.
 - Frida Marie Engøy Westby, MS in progress, UiO.
+- Preben Nicholai Castberg, MS, UiO.
 - Kjetil Karstensen Indrehus, MS, UiO, first job after graduation: full-time at Bekk Consulting.
 
-{% comment %}
+- Helene Brodin, summer intern, UiO
+- Bror Johannes Tidemand Ruud, summer intern, UiO 
+- Ola Karlstad, summer intern, UiO 
 - Josep Peiró Ramos, summer intern, UiO
 - Zhenwei Liu, summer intern, UiO
-{% endcomment %} 
 - Røskva Bjørgfinsdóttir, summer intern, UiO.
 - Brage Eilertsen, summer intern, UiO.
 - Oskar Høgberg Simensen, summer intern, UiO.
