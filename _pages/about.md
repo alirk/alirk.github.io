@@ -146,6 +146,7 @@ Fartash Faghri\*, Iman Tabrizian\*, Ilya Markov, Dan Alistarh, Daniel M. Roy, an
 My Stellar Team
 ======
 
+&nbsp;
 
 - Christina Runkel, PostDoc Fellow, MLReal Project, INTEGREAT, TRUST. 
 
