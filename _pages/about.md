@@ -143,7 +143,7 @@ My Stellar Team
 
 <img style="float: left;" src="/images/GroupNov25.JPG" width="1000"/>
 
-
+-----
 
 - Christina Runkel, PostDoc Fellow, MLReal Project, INTEGREAT, TRUST. 
 

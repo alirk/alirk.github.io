@@ -31,8 +31,7 @@ Fartash Faghri\*, Iman Tabrizian\*, Ilya Markov, Dan Alistarh, Daniel M. Roy, an
 
 Trustworthy AI    
 ======
-Zhiyuan Wu, Changkyu Choi, Shujian Yu, Robert Jenssen, and Ali Ramezani-Kebrya, **Mitigating Embedding Leakage via Latent Disruption with Controlled Reconstruction
-**, Transactions on Machine Learning Research, June 2026.  
+Zhiyuan Wu, Changkyu Choi, Shujian Yu, Robert Jenssen, and Ali Ramezani-Kebrya, **Mitigating Embedding Leakage via Latent Disruption with Controlled Reconstruction**, Transactions on Machine Learning Research, June 2026.  
 [pdf](https://openreview.net/pdf?id=nZWBrxJyrS){: .btn--research} [openreview](https://openreview.net/forum?id=nZWBrxJyrS&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DTMLR%2FAuthors%23your-submissions)){: .btn--research} 
 
 Brage Eilertsen, Røskva Bjørgfinsdóttir, Francielle Vargas, and Ali Ramezani-Kebrya, **Aligning Attention with Human Rationales for Self-Explaining Hate Speech Detection**, AAAI 2026.  
