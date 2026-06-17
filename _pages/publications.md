@@ -31,6 +31,10 @@ Fartash Faghri\*, Iman Tabrizian\*, Ilya Markov, Dan Alistarh, Daniel M. Roy, an
 
 Trustworthy AI    
 ======
+Zhiyuan Wu, Changkyu Choi, Shujian Yu, Robert Jenssen, and Ali Ramezani-Kebrya, **Mitigating Embedding Leakage via Latent Disruption with Controlled Reconstruction
+**, Transactions on Machine Learning Research, June 2026.  
+[pdf](https://openreview.net/pdf?id=nZWBrxJyrS){: .btn--research} [openreview](https://openreview.net/forum?id=nZWBrxJyrS&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DTMLR%2FAuthors%23your-submissions)){: .btn--research} 
+
 Brage Eilertsen, Røskva Bjørgfinsdóttir, Francielle Vargas, and Ali Ramezani-Kebrya, **Aligning Attention with Human Rationales for Self-Explaining Hate Speech Detection**, AAAI 2026.  
 [pdf](https://openreview.net/pdf?id=GGhmNxzOp2){: .btn--research} [demo](https://huggingface.co/bragee/sra-hate-speech-bert){: .btn--research} [arXiv](https://arxiv.org/abs/2511.07065){: .btn--research} [poster](https://www.linkedin.com/posts/ali-ramezani-kebrya-6896b924_aligning-attention-trustworthyai-activity-7417946055113240576-o00X?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAAUWQ4kBlBYcMDN26XooHrpTcRybZZnrg9I){: .btn--research}
 

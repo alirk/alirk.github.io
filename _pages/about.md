@@ -139,11 +139,12 @@ Fartash Faghri\*, Iman Tabrizian\*, Ilya Markov, Dan Alistarh, Daniel M. Roy, an
 -----
 
 My Stellar Team
+======
 
 <img style="float: left;" src="/images/GroupNov25.JPG" width="1000"/>
 
 
-======
+
 - Christina Runkel, PostDoc Fellow, MLReal Project, INTEGREAT, TRUST. 
 
 - Tobias Müller, Ph.D. in progress, UiO.
