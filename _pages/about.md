@@ -163,8 +163,8 @@ My Stellar Team
 - Noor Fatima, MS in progress, UiO. 
 - Arangan Subramaniam, MS, in progress, UiO.
 - Frida Marie Engøy Westby, MS in progress, UiO.
-- Preben Nicholai Castberg, MS, UiO, first job after graduation: full-time at Capgemini.
-- Kjetil Karstensen Indrehus, MS, UiO, first job after graduation: full-time at Bekk Consulting.
+- Preben Nicholai Castberg, MS UiO, first job after graduation: full-time at Capgemini.
+- Kjetil Karstensen Indrehus, MS UiO, first job after graduation: full-time at Bekk Consulting.
 
 - Helene Brodin, summer intern, UiO
 - Bror Johannes Tidemand Ruud, summer intern, UiO 
