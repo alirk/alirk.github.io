@@ -7,10 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-<img style="float: left;" src="/images/GroupNov25.JPG" width="1000"/>
-
-
-
 I am an Associate Professor (with tenure) in the [Department of Informatics](https://www.mn.uio.no/ifi/english/index.html) at the [University of Oslo (UiO)](https://www.uio.no/english/), a Research Theme Leader at the [Norwegian Center for Knowledge-driven Machine Learning (Integreat)](https://www.integreat.no/), a Principal Investigator at TRUST – The Norwegian Centre for Trustworthy AI, a Senior Researcher at [MishMash Centre for AI and Creativity](https://mishmash.no/), and a member of the [European Laboratory for Learning and Intelligent Systems (ELLIS) Society](https://ellis.eu/). I serve as an Area Chair of NeurIPS, ICLR, ICML, and AISTATS and Action Editor for [Transactions on Machine Learning Research](https://jmlr.org/tmlr/index.html). I have received [FRIPRO Grant for Early Career Scientists](https://www.integreat.no/news/two-new-integreat-pis-awarded-fripro-grants-ingrid.html) and Top 10% Area Chair Recognition at NeurIPS 2025. 
 
 Before joining UiO, I was a Senior Scientific Collaborator at [EPFL](https://www.epfl.ch/en/), working with [Prof. Volkan Cevher](https://people.epfl.ch/volkan.cevher?lang=en) in [Laboratory for Information and Inference Systems (LIONS)](https://www.epfl.ch/labs/lions/). Before joining LIONS, I was an [NSERC Postdoctoral Fellow](https://www.nserc-crsng.gc.ca/students-etudiants/pd-np/pdf-bp_eng.asp) at the [Vector Institute](https://vectorinstitute.ai/) in Toronto working with [Prof. Daniel M. Roy](http://danroy.org/). I received my Ph.D. from the [University of Toronto](https://www.utoronto.ca/) where I was very fortunate to be advised by [Prof. Ben Liang](https://www.comm.utoronto.ca/~liang/) and [Prof. Min Dong](https://sites.google.com/ontariotechu.net/dong?pli=1). 
@@ -142,25 +138,38 @@ Fartash Faghri\*, Iman Tabrizian\*, Ilya Markov, Dan Alistarh, Daniel M. Roy, an
 
 -----
 
-Students 
+My Stellar Team
+
+<img style="float: left;" src="/images/GroupNov25.JPG" width="1000"/>
+
+
 ======
-- Tobias Müller, Ph.D. in progress, University of Oslo.
-- Adrian Duric, Ph.D. in progress, University of Oslo.
-- Sigurd Holmsen, Ph.D. in progress, University of Oslo.
-- Daniel Kaiser, Ph.D. in progress, University of Tromsø.
-- Johan Mylius Kroken, Ph.D. in progress, University of Tromsø. 
-- Zhiyuan Wu, Ph.D. in progress, University of Oslo.
+- Christina Runkel, PostDoc Fellow, MLReal Project, INTEGREAT, TRUST. 
 
-- Kjetil Karstensen Indrehus, MS in progress, University of Oslo.
-- Arangan Subramaniam, MS in progress, University of Oslo.
-- Preben Nicholai Castberg, MS in progress, University of Oslo.
-- Frida Marie Engøy Westby, MS in progress, University of Oslo.
+- Tobias Müller, Ph.D. in progress, UiO.
+- Adrian Duric, Ph.D. in progress, UiO.
+- Sigurd Holmsen, Ph.D. in progress, UiO.
+- Daniel Kaiser, Ph.D. in progress, UiT.
+- Johan Mylius Kroken, Ph.D. in progress, UiT. 
+- Zhiyuan Wu, Ph.D. in progress, UiO.
 
-- Røskva Bjørgfinsdóttir, summer intern, University of Oslo.
-- Brage Eilertsen, summer intern, University of Oslo.
-- Oskar Høgberg Simensen, summer intern, University of Oslo.
-- Guri Marie Svenberg, summer intern, University of Oslo.
-- Karen Stølan Nielsen, summer intern, University of Oslo.
+- Esther Zijerveld, MS in progress, UiO.
+- Inger Kavlie, MS in progress, UiO.
+- Noor Fatima, MS in progress, UiO. 
+- Arangan Subramaniam, MS in progress, UiO.
+- Preben Nicholai Castberg, MS in progress, UiO.
+- Frida Marie Engøy Westby, MS in progress, UiO.
+- Kjetil Karstensen Indrehus, MS, UiO, first job after graduation: full-time at Bekk Consulting.
+
+{% comment %}
+- Josep Peiró Ramos, summer intern, UiO
+- Zhenwei Liu, summer intern, UiO
+{% endcomment %} 
+- Røskva Bjørgfinsdóttir, summer intern, UiO.
+- Brage Eilertsen, summer intern, UiO.
+- Oskar Høgberg Simensen, summer intern, UiO.
+- Guri Marie Svenberg, summer intern, UiO.
+- Karen Stølan Nielsen, summer intern, UiO.
 	
 - Co-supervision at the University of Toronto and EPFL  
 	- Anh Duc Nguyen, undergraduate intern, EPFL.    
