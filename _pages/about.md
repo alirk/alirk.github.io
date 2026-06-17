@@ -142,11 +142,12 @@ Fartash Faghri\*, Iman Tabrizian\*, Ilya Markov, Dan Alistarh, Daniel M. Roy, an
 
 <img style="float: left;" src="/images/GroupNov25.JPG" width="1000"/>
 
+&nbsp;
+
 
 My Stellar Team
 ======
 
-&nbsp;
 
 - Christina Runkel, PostDoc Fellow, MLReal Project, INTEGREAT, TRUST. 
 
