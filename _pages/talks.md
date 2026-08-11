@@ -1,9 +1,12 @@
 ---
 layout: archive
-title: "Talks"
+title: "Selected Talks"
 permalink: /talks/
 author_profile: true
 ---
+`Machine Learning in Real World`
+Host: University of Toronto and Vector Institute, Canada, March 2026.
+
 `Machine Learning in Real World`
 Host: University of Victoria, Canada, Dec. 2024.
 
