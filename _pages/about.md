@@ -17,7 +17,7 @@ My current research is focused on **understanding how the input data distributio
 
 Recent News
 ======  
-- 2/2026 **Two exciting PhD positions are available:** [**Deadline March 1st**](https://www.jobbnorge.no/en/available-jobs/job/294560/phd-research-fellow-in-deep-learning-for-medical-imaging-and-multi-modal-data-in-cancer-research) and [**Deadline March 8th**](https://www.jobbnorge.no/en/available-jobs/job/295231/phd-research-fellow-in-machine-learning-and-statistics). 
+- 9/2026 Two papers accepted at **NeurIPS 2026**!. 
 - 1/2026 One Submission and One Accept at **ICLR 2026**!
 - 1/2026 Christina Runkel has joined us at INTEGREAT and UiO. Welcome Christina!
 - 12/2025 I serve as an Area Chair of ICLR 2026.
@@ -67,6 +67,12 @@ Recent News
 
 Selected Publications
 ======
+<img style="float: left;" src="/images/VINE.png" width="300"/> We propose an interpretable mutual information estimator **VINE** built on non-parametric vine copulas with a closed-form expression for the density ratio under a simplified D-vine copula model. VINE is computationally efficient and improves estimation error compared to SotA neural mutual information estimators.
+
+Sigurd Holmsen, Berit Omli Øksnes, Ingrid Hobæk Haff, Sylvia Richardson and Ali Ramezani-Kebrya,  ** Breaking Curse of Dimensionality for Mutual Information Estimation with Vine Copulas**, NeurIPS 2026.  
+
+
+
 <img style="float: left;" src="/images/Cogni.png" width="300"/> Inspired by Cognitive Load Theory, we developed **logic puzzles with controlling proxies of three types of cognitive load on human working memory when solving problems**. CogniLoad generates **random logic puzzles very efficiently without requiring any external knowledge or retrieval just assessing** inherent brain of reasoning LLMs. 22 SotA reasoning LLMs are evaluated. 
 
 Daniel Kaiser, Arnoldo Frigessi, Ali Ramezani-Kebrya, and Benjamin Ricaud, **CogniLoad: A Synthetic Natural Language Reasoning Benchmark With Tunable Length, Intrinsic Difficulty, and Distractor Density**, ICLR 2026.  
