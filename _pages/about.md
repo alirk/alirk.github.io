@@ -67,7 +67,7 @@ Recent News
 
 Selected Publications
 ======
-<img style="float: left;" src="/images/VINE.png" width="300"/> We propose an interpretable mutual information estimator **VINE** built on non-parametric vine copulas with a closed-form expression for the density ratio under a simplified D-vine copula model. VINE is computationally efficient, is more robust to high dimensions, and improves estimation error compared to SotA neural mutual information estimators.
+<img style="float: left;" src="/images/VINE.png" width="300"/> We propose a computationally efficient and interpretable mutual information estimator **VINE** built on non-parametric vine copulas with a closed-form expression for the density ratio under a simplified D-vine copula model. VINE is more robust to high dimensions, and improves estimation error compared to SotA neural mutual information estimators.
 
 Sigurd Holmsen, Berit Omli Øksnes, Ingrid Hobæk Haff, Sylvia Richardson and Ali Ramezani-Kebrya,  **Breaking Curse of Dimensionality for Mutual Information Estimation with Vine Copulas**, NeurIPS 2026.  
 
