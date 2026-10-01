@@ -4,6 +4,9 @@ title: "Selected Talks"
 permalink: /talks/
 author_profile: true
 ---
+`Information Relevance and Uncertainty Quantification `
+Host: TRUST- Integreat - RIKEN - SURE_AI workshop, Sep. 2026. 
+
 `Machine Learning in Real World`
 Host: University of Toronto and Vector Institute, Canada, March 2026.
 

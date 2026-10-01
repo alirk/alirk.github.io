@@ -15,6 +15,9 @@ Daniel Kaiser, Arnoldo Frigessi, Ali Ramezani-Kebrya, and Benjamin Ricaud, **Cog
 
 Deep Learning   
 ======
+Sigurd Holmsen, Berit Omli Øksnes, Ingrid Hobæk Haff, Sylvia Richardson and Ali Ramezani-Kebrya,  **Breaking Curse of Dimensionality for Mutual Information Estimation with Vine Copulas**, NeurIPS 2026.
+
+
 Anh Duc Nguyen, Ilia Markov, Frank Zhengqing Wu, Ali Ramezani-Kebrya, Kimon Antonakopoulos, Dan Alistarh, and Volkan Cevher, **Layer-wise Quantization for Quantized Optimistic Dual Averaging**, ICML 2025.[pdf](https://openreview.net/pdf?id=J6LYjEOxbz){: .btn--research} [poster](https://icml.cc/media/PosterPDFs/ICML%202025/45711.png?t=1752150381.1365473){: .btn--research} [openreview](https://openreview.net/forum?id=J6LYjEOxbz&noteId=XPlechyXOj){: .btn--research} [arXiv](https://arxiv.org/abs/2505.14371){: .btn--research}
 
 
@@ -53,6 +56,8 @@ Ali Ramezani-Kebrya\*, Iman Tabrizian\*, Fartash Faghri, and Petar Popovski, **M
 
 ML Theory 
 ======
+Johan Mylius-Kroken, Elisabeth Wetzer, Ali Ramezani-Kebrya, Robert Jenssen and Kristoffer Knutsen Wickstrøm, **Intrinsic Information Theoretic Analysis of ReLU Nets**, NeurIPS 2026. 
+
 Ali Ramezani-Kebrya, Kimon Antonakopoulos, Volkan Cevher, Ashish Khisti, and Ben Liang, **On the Generalization of Stochastic Gradient Descent with Momentum**, Journal of Machine Learning Research, vol. 25, pp. 1-56, Jan. 2024.  
 [pdf](https://jmlr.org/papers/v25/22-0068.html){: .btn--research} [bib](https://jmlr.org/papers/v25/22-0068.bib){: .btn--research} [arXiv](https://arxiv.org/abs/1809.04564){: .btn--research} 
 
