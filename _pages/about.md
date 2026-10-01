@@ -85,11 +85,12 @@ We introduce Supervised Rational Attention (SRA) that **aligns transformer atten
 Brage Eilertsen, Røskva Bjørgfinsdóttir, Francielle Vargas, and Ali Ramezani-Kebrya, **Aligning Attention with Human Rationales for Self-Explaining Hate Speech Detection**, AAAI 2026.  
 [pdf](https://openreview.net/pdf?id=GGhmNxzOp2){: .btn--research} [demo](https://huggingface.co/bragee/sra-hate-speech-bert){: .btn--research} [arXiv](https://arxiv.org/abs/2511.07065){: .btn--research} [poster](https://www.linkedin.com/posts/ali-ramezani-kebrya-6896b924_aligning-attention-trustworthyai-activity-7417946055113240576-o00X?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAAUWQ4kBlBYcMDN26XooHrpTcRybZZnrg9I){: .btn--research}
 
-
+{% comment %}
 <img style="float: left;" src="/images/LayerQuant.png" width="320"/> We have developed a general **layer-wise quantization** framework taking into account the statistical heterogeneity across layers and an efficient solver for distributed variational inequalities. We establish tight variance and code-length bounds for layer-wise quantization, which generalize the bounds for global quantization frameworks.  We empirically achieve up to a **150% speedup** over the baselines in end-to-end training time for training Wasserstein GAN on **12+ GPUs**.
 
 
-Anh Duc Nguyen, Ilia Markov, Frank Zhengqing Wu, Ali Ramezani-Kebrya, Kimon Antonakopoulos, Dan Alistarh, and Volkan Cevher, **Layer-wise Quantization for Quantized Optimistic Dual Averaging**, ICML 2025. [pdf](https://openreview.net/pdf?id=J6LYjEOxbz){: .btn--research} [poster](https://icml.cc/media/PosterPDFs/ICML%202025/45711.png?t=1752150381.1365473){: .btn--research} [openreview](https://openreview.net/forum?id=J6LYjEOxbz&noteId=XPlechyXOj){: .btn--research} [arXiv](https://arxiv.org/abs/2505.14371){: .btn--research} 
+Anh Duc Nguyen, Ilia Markov, Frank Zhengqing Wu, Ali Ramezani-Kebrya, Kimon Antonakopoulos, Dan Alistarh, and Volkan Cevher, **Layer-wise Quantization for Quantized Optimistic Dual Averaging**, ICML 2025. [pdf](https://openreview.net/pdf?id=J6LYjEOxbz){: .btn--research} [poster](https://icml.cc/media/PosterPDFs/ICML%202025/45711.png?t=1752150381.1365473){: .btn--research} [openreview](https://openreview.net/forum?id=J6LYjEOxbz&noteId=XPlechyXOj){: .btn--research} [arXiv](https://arxiv.org/abs/2505.14371){: .btn--research}
+{% endcomment %} 
 
 <img style="float: left;" src="/images/LS.png" width="320"/>  We have introduced a method to **minimize overall true risk** in distributed settings under inter-node and intra-node **label shifts**. We improve test-to-train density ratio estimation through Shannon entropy-based regularization. Our method encourages smoother and more reliable predictions that account for inherent uncertainty in the data with a better approximation of class conditional probabilities, and **achieves up to 20% improvement in average test error** in imbalanced settings approaching an upper bound.
 
@@ -109,20 +110,19 @@ Ali Ramezani-Kebrya\*, Fanghui Liu\*, Thomas Pethick\*, Grigorios Chrysos, and V
 [pdf](https://openreview.net/pdf?id=N7lCDaeNiS){: .btn--research} [code](https://github.com/LIONS-EPFL/Federated_Learning_Covariate_Shift_Code){: .btn--research} [openreview](https://openreview.net/forum?id=N7lCDaeNiS){: .btn--research} 
 
 <img style="float: left;" src="/images/FID_evolution.png" width="350"/>  Beyond supervised learning, we accelerate large-scale monotone variational inequality problems with applications such as training GANs in  distributed settings. We propose **quantized generalized extra-gradient (Q-GenX) family of algorithms** with the optimal rate of convergence and achieve noticeable speedups when training GANs on multiple GPUs without performance degradation.  
- 
+
+{% comment %} 
 Ali Ramezani-Kebrya\*, Kimon Antonakopoulos\*, Igor Krawczuk\*, Justin Deschenaux\*, and Volkan Cevher, **Distributed Extra-gradient with Optimal Complexity and Communication Guarantees**, ICLR 2023.  
 [pdf](https://openreview.net/pdf?id=b3itJyarLM0){: .btn--research} [bib](https://scholar.googleusercontent.com/scholar.bib?q=info:0Rc5SDH6BLEJ:scholar.google.com/&output=citation&scisdr=Cpu_FFPiEKCS49Q_XLg:AJ9-iYsAAAAAZEk5RLiokHqP3Zwtjs3yxY4tW3g&scisig=AJ9-iYsAAAAAZEk5RPim2bqJoOMe3WMWc15niVM&scisf=4&ct=citation&cd=-1&hl=en){: .btn--research} [code](https://github.com/LIONS-EPFL/QGENX){: .btn--research} [openreview](https://openreview.net/forum?id=b3itJyarLM0){: .btn--research} 
 
 <img style="float: left;" src="/images/MixTailor_Overview.png" width="350"/>   ML models are vulnerable to various attacks at training and test time including data/model poisoning and adversarial examples. We introduce MixTailor, a scheme based on randomization of the aggregation strategies that makes it impossible for the attacker to be fully informed.  **MixTailor: Mixed Gradient Aggregation for Robust Learning Against Tailored Attacks** increases computational complexity of designing tailored attacks for an informed adversary.
 
- 
 Ali Ramezani-Kebrya\*, Iman Tabrizian\*, Fartash Faghri, and Petar Popovski, **MixTailor: Mixed Gradient Aggregation for Robust Learning Against Tailored Attacks**, Transactions on Machine Learning Research, Oct. 2022.  
 [pdf](https://openreview.net/pdf?id=tqDhrbKJLS){: .btn--research} [bib](https://www.jmlr.org/tmlr/papers/bib/tqDhrbKJLS.bib){: .btn--research} [code](https://github.com/Tabrizian/mix-tailor){: .btn--research} [arXiv](https://arxiv.org/abs/2207.07941){: .btn--research} [openreview](https://openreview.net/forum?id=tqDhrbKJLS){: .btn--research} 
 
 
-
 <img style="float: left;" src="/images/OPNN.png" width="300"/>   Overparameterization refers to the important phenomenon where the width of a neural network is chosen such that learning algorithms can provably attain zero loss in nonconvex training. In **Subquadratic Overparameterization for Shallow Neural Networks**, we achieve the best known bounds on the number of parameters that is sufficient for gradient descent to converge to a global minimum with linear rate and probability approaching to one.
-
+{% endcomment %}
  
 Chaehwan Song\*, Ali Ramezani-Kebrya\*, Thomas Pethick, Armin Eftekhari, and Volkan Cevher, **Subquadratic Overparameterization for Shallow Neural Networks**, NeurIPS 2021.  
 [pdf](https://proceedings.neurips.cc/paper/2021/file/5d9e4a04afb9f3608ccc76c1ffa7573e-Paper.pdf){: .btn--research} [bib](https://scholar.googleusercontent.com/scholar.bib?q=info:kx3LBH3jDHQJ:scholar.google.com/&output=citation&scisdr=CgVA45jvEKCS5DjU-u4:AAGBfm0AAAAAY6XS4u5LcAezF3eXi9jM_VkuZB9hzmc2&scisig=AAGBfm0AAAAAY6XS4r70vs2W1lznoTFxd4JHdJ9kVKaF&scisf=4&ct=citation&cd=-1&hl=en){: .btn--research} [code](https://github.com/LIONS-EPFL/Subquadratic-Overparameterization){: .btn--research} [arXiv](https://arxiv.org/abs/2111.01875){: .btn--research} [openreview](https://openreview.net/forum?id=NhbFhfM960){: .btn--research} 

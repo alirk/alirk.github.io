@@ -11,9 +11,9 @@ author_profile: true
 ---
 UiO, Oslo, Norway, Course Leader
 
-- Introduction to Artificial Intelligence and Machine Learning, Fall 2024, 2025.
+- Introduction to Artificial Intelligence and Machine Learning, Fall 2024, 2025, 2026.
 
-- Deep Learning for Image Analysis, Spring 2024, 2025.
+- Deep Learning for Image Analysis, Spring 2024, 2025, 2026.
 
 ETH, Zurich, Switzerland, Contributor to Course Development
 
