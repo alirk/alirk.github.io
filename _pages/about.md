@@ -109,9 +109,9 @@ Ali Ramezani-Kebrya, Kimon Antonakopoulos, Volkan Cevher, Ashish Khisti, and Ben
 Ali Ramezani-Kebrya\*, Fanghui Liu\*, Thomas Pethick\*, Grigorios Chrysos, and Volkan Cevher, **Federated Learning under Covariate Shifts with Generalization Guarantees**, Transactions on Machine Learning Research, June 2023.  
 [pdf](https://openreview.net/pdf?id=N7lCDaeNiS){: .btn--research} [code](https://github.com/LIONS-EPFL/Federated_Learning_Covariate_Shift_Code){: .btn--research} [openreview](https://openreview.net/forum?id=N7lCDaeNiS){: .btn--research} 
 
+{% comment %} 
 <img style="float: left;" src="/images/FID_evolution.png" width="350"/>  Beyond supervised learning, we accelerate large-scale monotone variational inequality problems with applications such as training GANs in  distributed settings. We propose **quantized generalized extra-gradient (Q-GenX) family of algorithms** with the optimal rate of convergence and achieve noticeable speedups when training GANs on multiple GPUs without performance degradation.  
 
-{% comment %} 
 Ali Ramezani-Kebrya\*, Kimon Antonakopoulos\*, Igor Krawczuk\*, Justin Deschenaux\*, and Volkan Cevher, **Distributed Extra-gradient with Optimal Complexity and Communication Guarantees**, ICLR 2023.  
 [pdf](https://openreview.net/pdf?id=b3itJyarLM0){: .btn--research} [bib](https://scholar.googleusercontent.com/scholar.bib?q=info:0Rc5SDH6BLEJ:scholar.google.com/&output=citation&scisdr=Cpu_FFPiEKCS49Q_XLg:AJ9-iYsAAAAAZEk5RLiokHqP3Zwtjs3yxY4tW3g&scisig=AJ9-iYsAAAAAZEk5RPim2bqJoOMe3WMWc15niVM&scisf=4&ct=citation&cd=-1&hl=en){: .btn--research} [code](https://github.com/LIONS-EPFL/QGENX){: .btn--research} [openreview](https://openreview.net/forum?id=b3itJyarLM0){: .btn--research} 
 
@@ -119,10 +119,10 @@ Ali Ramezani-Kebrya\*, Kimon Antonakopoulos\*, Igor Krawczuk\*, Justin Deschenau
 
 Ali Ramezani-Kebrya\*, Iman Tabrizian\*, Fartash Faghri, and Petar Popovski, **MixTailor: Mixed Gradient Aggregation for Robust Learning Against Tailored Attacks**, Transactions on Machine Learning Research, Oct. 2022.  
 [pdf](https://openreview.net/pdf?id=tqDhrbKJLS){: .btn--research} [bib](https://www.jmlr.org/tmlr/papers/bib/tqDhrbKJLS.bib){: .btn--research} [code](https://github.com/Tabrizian/mix-tailor){: .btn--research} [arXiv](https://arxiv.org/abs/2207.07941){: .btn--research} [openreview](https://openreview.net/forum?id=tqDhrbKJLS){: .btn--research} 
-
+{% endcomment %}
 
 <img style="float: left;" src="/images/OPNN.png" width="300"/>   Overparameterization refers to the important phenomenon where the width of a neural network is chosen such that learning algorithms can provably attain zero loss in nonconvex training. In **Subquadratic Overparameterization for Shallow Neural Networks**, we achieve the best known bounds on the number of parameters that is sufficient for gradient descent to converge to a global minimum with linear rate and probability approaching to one.
-{% endcomment %}
+
  
 Chaehwan Song\*, Ali Ramezani-Kebrya\*, Thomas Pethick, Armin Eftekhari, and Volkan Cevher, **Subquadratic Overparameterization for Shallow Neural Networks**, NeurIPS 2021.  
 [pdf](https://proceedings.neurips.cc/paper/2021/file/5d9e4a04afb9f3608ccc76c1ffa7573e-Paper.pdf){: .btn--research} [bib](https://scholar.googleusercontent.com/scholar.bib?q=info:kx3LBH3jDHQJ:scholar.google.com/&output=citation&scisdr=CgVA45jvEKCS5DjU-u4:AAGBfm0AAAAAY6XS4u5LcAezF3eXi9jM_VkuZB9hzmc2&scisig=AAGBfm0AAAAAY6XS4r70vs2W1lznoTFxd4JHdJ9kVKaF&scisf=4&ct=citation&cd=-1&hl=en){: .btn--research} [code](https://github.com/LIONS-EPFL/Subquadratic-Overparameterization){: .btn--research} [arXiv](https://arxiv.org/abs/2111.01875){: .btn--research} [openreview](https://openreview.net/forum?id=NhbFhfM960){: .btn--research} 
