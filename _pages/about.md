@@ -17,6 +17,7 @@ My current research is focused on **understanding how the input data distributio
 
 Recent News
 ======  
+- 10/2026 I serve as a Senior Area Chair of ICML 2026.
 - 9/2026 Two papers accepted at **NeurIPS 2026**!
 - 1/2026 One Submission and One Accept at **ICLR 2026**!
 - 1/2026 Christina Runkel has joined us at INTEGREAT and UiO. Welcome Christina!
