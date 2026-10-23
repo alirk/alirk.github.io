@@ -15,7 +15,7 @@ Daniel Kaiser, Arnoldo Frigessi, Ali Ramezani-Kebrya, and Benjamin Ricaud, **Cog
 
 Deep Learning   
 ======
-Sigurd Holmsen, Berit Omli Øksnes, Ingrid Hobæk Haff, Sylvia Richardson and Ali Ramezani-Kebrya,  **Breaking Curse of Dimensionality for Mutual Information Estimation with Vine Copulas**, NeurIPS 2026.
+Sigurd Holmsen, Berit Omli Øksnes, Ingrid Hobæk Haff, Sylvia Richardson and Ali Ramezani-Kebrya,  **Non-Parametric Mutual Information Estimation with Vine Copulas**, NeurIPS 2026.
 
 
 Anh Duc Nguyen, Ilia Markov, Frank Zhengqing Wu, Ali Ramezani-Kebrya, Kimon Antonakopoulos, Dan Alistarh, and Volkan Cevher, **Layer-wise Quantization for Quantized Optimistic Dual Averaging**, ICML 2025.[pdf](https://openreview.net/pdf?id=J6LYjEOxbz){: .btn--research} [poster](https://icml.cc/media/PosterPDFs/ICML%202025/45711.png?t=1752150381.1365473){: .btn--research} [openreview](https://openreview.net/forum?id=J6LYjEOxbz&noteId=XPlechyXOj){: .btn--research} [arXiv](https://arxiv.org/abs/2505.14371){: .btn--research}
